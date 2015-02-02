@@ -12,6 +12,9 @@
 =====i means, the book should be written by yourself=============
 =====everyone could have one book for his/her life include=======
 =====the day and night.==========================================
+=====and the must say is that the book will never be changed=====
+=====once you write the first word, you can not change it========
+=====forever, including delete it================================
 =====do you want to join me?=====================================
 =====i am here for your coming.==================================
 =====aha,you call me jd firstly.=================================
