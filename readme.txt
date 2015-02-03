@@ -14,7 +14,9 @@
 =====the day and night.==========================================
 =====and the must say is that the book will never be changed=====
 =====once you write the first word, you can not change it========
-=====forever, including delete it================================
+=====forever, including delete it. if you don't think it's======= 
+=====perfect for you, you have one more chance to begin another==
+=====book.====================== ================================
 =====do you want to join me?=====================================
 =====i am here for your coming.==================================
 =====aha,you call me jd firstly.=================================
