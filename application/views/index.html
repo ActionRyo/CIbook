@@ -1,10 +1,67 @@
 <html>
 <head>
-	<title>403 Forbidden</title>
+<title> welcome </title>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/all.js"></script>
 </head>
 <body>
+<script language="javascript">
+$(document).ready(function(){
+        //checkLogin();	
+        $("#btn1").click(function(){
+            var nameele = $('input[name=name]');	
+            var pwdele = $('input[name=pwd]');	
+            if( isEmpty(nameele))
+            {
+                location.href = "/CIweb/index.php?/login";
+                return false;
+            }
+            if(isEmpty(pwdele))
+            {
+                location.href = "/CIweb/index.php?/login";
+                return false;
+            }
+            var name = nameele.val();
+            var pwd = pwdele.val();
+            $.post('/CIweb/index.php?/login/checkin',{name:name,pwd:pwd},
+                function(data){
+                data = JSON.parse(data);
+                if(data.id == 0)
+                {
+                alert(data.name);
+                return false;
+                }
+                location.href = '/CIweb/index.php?/login/dashboard';
+                });
+            });
+        });
+</script>
 
-<p>Directory access is forbidden.</p>
-
+<div class="nav">
+welcome to login or sign up.
+</div>
+<div>
+<form name="loginform" class="nav_form" >
+<table align="center">
+<tr>
+<td>User Name&nbsp;:<input id="name" type="text" name="name"></td>
+<!--<label class="error" id="name_error">must input</label>-->
+</tr>
+<tr>
+<td>Password&nbsp;&nbsp;:<input id="pwd" type="password" name="pwd"></td>
+<!--<td class="error" id="pwd_error">must input</td>-->
+</tr>
+<tr>
+<td>
+<button id="btn1" class="nav_form_submit" type="button" name="login">提交</button>
+</td>
+<td>
+<button id="btn2" class="nav_form_submit"  type="reset" name="reset"></button>
+</td>
+</tr>
+</table>
+</form>
+</div>
 </body>
 </html>

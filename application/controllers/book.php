@@ -1,30 +1,79 @@
 <?php
 	class Book extends CI_Controller{
-				public function __construct(){
+				public function __construct()
+				{
 						parent::__construct();
-						$this->load->model('mbook/book_model');
+						$this->load->model('mbook/book_model', 'model');
+				}
+				public function index()
+				{
+						$data['json'] = $this->model->get_book();
+						$this->load->view('json_view', $data);
+				}
+
+
+				public function view($id = FALSE)
+				{
+						if( $id === FALSE)
+						{
+							$data['json'] = $this->model->get_book();
+							if( empty($data['json']))
+							{
+								show_404();		
+                                return;
+							}
+
+							$this->load->view('json_view', $data);
+                            return;
 						}
-				public function index(){
-						$data['book'] = $this->book_model->get();
-						$data['title'] = 'book info';
+						$data['json'] = $this->model->get_book($id);
 
-						$this->load->view('templates/header', $data);
-						$this->load->view('book/index', $data);
-						$this->load->view('templates/footer');
-						}
-
-				public function view($slug){
-						$data['book_item'] = $this->book_model->get($slug);
-
-						if(empty($data['book_item'])){
+						if( empty($data['json']) )
+						{
 								show_404();
-								}
-
-						$data['title'] = $data['book_item']['category'];
-
-						$this->load->view('templates/header', $data);
-						$this->load->view('book/view', $data);
-						$this->load->view('templates/footer');
+                                return;
 						}
-			}
-?>
+
+						$this->load->view('json_view', $data);
+				}
+				public function add()
+				{
+						$name = $this->input->post('name');
+						$cate = $this->input->post('cate');
+						$page = $this->input->post('page');
+						$content = $this->input->post('content');
+
+						$this->model->add_book($name, $cate, $page, $content);
+
+						$data['json'] = $this->model->get_book();
+						if(empty($data['json']))
+						{
+							show_404();		
+                            return;
+						}
+						$this->load->view('json_view', $data);
+				}
+				public function del($id)
+				{
+						$this->model->delete_book($id);
+					    $this->model->get_book();
+						$this->load->view('json_view');
+				}
+				public function update($id)
+				{
+						$name = $this->input->post('name');
+						$cate = $this->input->post('cate');
+						$page = $this->input->post('page');
+						$content = $this->input->post('content');
+						$this->model->update_book($name, $cate, $page, $content, $id);
+						$data['json'] = $this->model->get_book();
+						if( empty($data['json']))
+						{
+							show_404();		
+                            return;
+						}
+						$this->load->view('json_view', $data);
+				}
+		}
+/* End of file book.php */
+/* Location: ./application/controllers/book.php */
