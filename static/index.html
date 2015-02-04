@@ -1,9 +1,9 @@
 <html>
 <head>
 <title> welcome </title>
-<link rel="stylesheet" type="text/css" href="../css/style.css" />
-<script type="text/javascript" src="../js/jquery.js"></script>
-<script type="text/javascript" src="../js/all.js"></script>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/all.js"></script>
 </head>
 <body>
 <script language="javascript">
@@ -24,12 +24,13 @@ $(document).ready(function(){
             }
             var name = nameele.val();
             var pwd = pwdele.val();
-            $.post('/CIweb/index.php?/login/checkin',{name:name,pwd:pwd},
+            $.post('/CIweb/server/index.php?/login/checkin',{name:name,pwd:pwd},
+
                 function(data){
                 data = JSON.parse(data);
-                if(data.id == 0)
+                if(data.code != 0)
                 {
-                alert(data.name);
+                alert(data.msg);
                 location.href = 'index.html';
                 return false;
                 }

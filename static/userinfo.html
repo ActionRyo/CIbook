@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W4C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<link rel="stylesheet" type="text/css" href="../css/style.css" />
-<script type="text/javascript" src="../js/jquery.js"></script>
-<script type="text/javascript" src="../js/all.js"></script>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/all.js"></script>
 <script language="javascript">
 $(document).ready(function(){	
         isLogin();
@@ -37,7 +37,7 @@ $(document).ready(function(){
             var addr = addrele.val();
             var cert = certele.val();
             $.post(
-                "/CIweb/index.php?/user/add",
+                "/CIweb/server/index.php?/user/add",
                 {name:name, tel:tel, addr:addr, cert:cert},
                 function(data)
                 {
@@ -54,7 +54,7 @@ $(document).ready(function(){
         });
         if(true){
             $.getJSON(
-                    "/CIweb/index.php?/user/view",
+                    "/CIweb/server/index.php?/user/view",
                     function(data){
                     if(data.code != 0)
                     {
@@ -94,7 +94,7 @@ $(document).ready(function(){
                 for(var i=0; i < rad.length; i++){
                 if(rad[i].checked){
                 radval = $("input:radio[name=rad]:checked").val();
-                url = "/CIweb/index.php?/user/view/" + radval;
+                url = "/CIweb/server/index.php?/user/view/" + radval;
                 $.post(
                     url,
                     function(data){
@@ -141,7 +141,7 @@ $(document).ready(function(){
 
                 var id = $("input[name=id]").val();
                 var url = "";
-                url = "/CIweb/index.php?/user/update/" + id;
+                url = "/CIweb/server/index.php?/user/update/" + id;
                 $.post(
                     url,
                     {name:name, tel:tel, addr:addr, cert:cert},
@@ -167,7 +167,7 @@ $(document).ready(function(){
                 for(var i = 0; i < rad.length; i++){
                 if(rad[i].checked){
                 radval = $("input:radio[name=rad]:checked").val();
-                url = "/CIweb/index.php?/user/del/" + radval;
+                url = "/CIweb/server/index.php?/user/del/" + radval;
                 $.post(
                     url,
                     function(data){

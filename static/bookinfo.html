@@ -1,9 +1,9 @@
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
 <title>book info</title>
-<script type="text/javascript" src="../js/jquery.js"></script>
-<script type="text/javascript" src="../js/all.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/all.js"></script>
 <script language="javascript">
 $(document).ready(function(){
         isLogin();
@@ -12,7 +12,7 @@ $(document).ready(function(){
         if(true){
         $("#changebook").show();
         $("#deletebook").show();
-        $.getJSON("/CIweb/index.php?/book/view",
+        $.getJSON("/CIweb/server/index.php?/book/view",
             function(data){
             if(data.code != 0){
             alert(data.msg);
@@ -49,7 +49,7 @@ $(document).ready(function(){
                 for(var i = 0; i<rad.length;i++){
                 if(rad[i].checked){
                 radval = $("input:radio[name=rad]:checked").val();
-                url = "/CIweb/index.php?/book/view/" + radval;
+                url = "/CIweb/server/index.php?/book/view/" + radval;
                 $.post(
                     url,
                     function(data){
@@ -99,7 +99,7 @@ $(document).ready(function(){
                 var content = contentele.val();
                 var id = $("input[name=id]").val();
                 var url = "";
-                url = "/CIweb/index.php?/book/update/" + id ;
+                url = "/CIweb/server/index.php?/book/update/" + id ;
                 $.post(
                         url,
                         {name:name, cate:cate, page:page, content:content},
@@ -150,7 +150,7 @@ $(document).ready(function(){
                 var page = pageele.val();
                 var content = contentele.val();
                 $.post(
-                    "/CIweb/index.php?/book/add",
+                    "/CIweb/server/index.php?/book/add",
                     {name:name,cate:cate, page:page, content:content},
                     function(data)
                     {
@@ -173,7 +173,7 @@ $(document).ready(function(){
                 for(var i=0;i<rad.length; i++){
                 if(rad[i].checked){
                 radval = $("input:radio[name=rad]:checked").val();
-                url = "/CIweb/index.php?/book/del/" + radval;
+                url = "/CIweb/server/index.php?/book/del/" + radval;
                 $.post(
                     url,
                     function(data){

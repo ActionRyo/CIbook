@@ -1,9 +1,9 @@
 <html>
 <head>
 <title> home </title>
-<script type="text/javascript" src="../js/jquery.js"></script>
-<script type="text/javascript" src="../js/all.js"></script>
-<link type="text/css" href="../css/style.css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/all.js"></script>
+<link type="text/css" href="css/style.css" />
 </head>
 <body>
 <script language="javascript">
@@ -14,7 +14,7 @@ $(document).ready(function(){
 				heightSync(left, right);
 				$('#logout').click(function(){
 						$.post(
-								"/CIweb/index.php?/login/checkout",
+								"/CIweb/server/index.php?/login/checkout",
 								function(){
 								location.href = 'index.html';
                                 return false;
