@@ -1,13 +1,14 @@
 <html>
 <head>
 <title> home </title>
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/all.js"></script>
-<link type="text/css" href="css/style.css" />
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/all.js"></script>
+<link type="text/css" href="../css/style.css" />
 </head>
 <body>
 <script language="javascript">
 $(document).ready(function(){
+                isLogin();
 				var left = $("#left");
 				var right = $("#tagContent");
 				heightSync(left, right);
@@ -15,15 +16,15 @@ $(document).ready(function(){
 						$.post(
 								"/CIweb/index.php?/login/checkout",
 								function(){
-								location.href = 'application/views/index.html';
+								location.href = 'index.html';
                                 return false;
 							  });
 						});
 				$("#h1").click(function(){
-						$("#ifra").attr("src", "application/views/userinfo.html?t=" + Math.random());
+						$("#ifra").attr("src", "userinfo.html?t=" + Math.random());
 						});
 				$("#h2").click(function(){
-						$("#ifra").attr("src", "application/views/bookinfo.html?t=" + Math.random());
+						$("#ifra").attr("src", "bookinfo.html?t=" + Math.random());
 						});
 				});
 </script>

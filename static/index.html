@@ -1,25 +1,25 @@
 <html>
 <head>
 <title> welcome </title>
-<link rel="stylesheet" type="text/css" href="css/style.css" />
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/all.js"></script>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/all.js"></script>
 </head>
 <body>
 <script language="javascript">
 $(document).ready(function(){
-        //checkLogin();	
+        checkLogin();
         $("#btn1").click(function(){
             var nameele = $('input[name=name]');	
             var pwdele = $('input[name=pwd]');	
             if( isEmpty(nameele))
             {
-                location.href = "/CIweb/index.php?/login";
+                location.href = "index.html";
                 return false;
             }
             if(isEmpty(pwdele))
             {
-                location.href = "/CIweb/index.php?/login";
+                location.href = "index.html";
                 return false;
             }
             var name = nameele.val();
@@ -30,9 +30,10 @@ $(document).ready(function(){
                 if(data.id == 0)
                 {
                 alert(data.name);
+                location.href = 'index.html';
                 return false;
                 }
-                location.href = '/CIweb/index.php?/login/dashboard';
+                location.href = 'dashboard.html';
                 });
             });
         });

@@ -28,12 +28,36 @@ class User_model extends CI_Model{
     {
         if( $id === FALSE)
         {
-            $query = $this->db->get('t_user');
-            return $query->result_array();
+            if( $query = $this->db->get('t_user'))
+            {
+                $data = $query->result_array();
+                return array(
+                    'code'=>0,
+                    'msg'=>'',
+                    'data'=>$data
+                );
+            }
+            return array(
+                'code'=>1,
+                'msg'=>'get user error.',
+                'data'=>''
+            );
         }
 
-        $query = $this->db->get_where('t_user', array('id'=>$id));
-        return $query->result_array();
+        if( $query = $this->db->get_where('t_user', array('id'=>$id)))
+        {
+            $data = $query->result_array();
+            return array(
+                'code'=>0,
+                'msg'=>'',
+                'data'=>$data
+            );
+        }
+        return array(
+            'code'=>1,
+            'msg'=>'get one user error.',
+            'data'=>''
+        );
     }
     public function delete_user( $id )
     {

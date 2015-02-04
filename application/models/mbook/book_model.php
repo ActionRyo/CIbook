@@ -11,12 +11,36 @@ class Book_model extends CI_Model{
     {
         if( $id === FALSE )
         {
-            $query = $this->db->get('t_book');//select all book
-            return $query->result_array();
+            if($query = $this->db->get('t_book'))
+            {
+                $data = $query->result_array();
+                return array(
+                    'code'=>0,
+                    'msg'=>'',
+                    'data'=>$data
+                );
+            }
+            return array(
+                'code'=>1,
+                'msg'=>'get book error',
+                'data'=>''
+            );
         }
 
-        $query = $this->db->get_where('t_book', array('id'=>$id));//select one book
-        return $query->result_array();
+        if( $query = $this->db->get_where('t_book', array('id'=>$id)))
+        {
+            $data = $query->result_array();
+            return array(
+                'code'=>0,
+                'msg'=>'',
+                'data'=>$data
+            );
+        }
+        return array(
+            'code'=>1,
+            'msg'=>'get one book error.',
+            'data'=>''
+        );
     }
     public function delete_book( $id)
     {
@@ -55,10 +79,10 @@ class Book_model extends CI_Model{
             $this->db->where('id', $id);
             $this->db->update('t_book', array('name'=>$name, 'category'=>$cate, 'page'=>$page, 'content'=>$content));
             return array(
-                'code'=>0,
-                'msg'=>'',
-                'data'=>''
-            );
+                    'code'=>0,
+                    'msg'=>'',
+                    'data'=>''
+                    );
         }
         $query = $this->db->get_where('t_book', array('name'=>$name));
         $data = $query->result_array();

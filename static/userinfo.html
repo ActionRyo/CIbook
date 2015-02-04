@@ -1,12 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W4C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<link rel="stylesheet" type="text/css" href="css/style.css" />
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/all.js"></script>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/all.js"></script>
 <script language="javascript">
 $(document).ready(function(){	
+        isLogin();
         $("#sub").hide();
         $("#addbtn").hide();
         $('#adduser').click(function(){
@@ -56,9 +56,9 @@ $(document).ready(function(){
             $.getJSON(
                     "/CIweb/index.php?/user/view",
                     function(data){
-                    if(data.id == 0)
+                    if(data.code != 0)
                     {
-                    alert(data.name);
+                    alert(data.msg);
                     location.href = "userinfo.html";
                     return false;
                     }
@@ -68,7 +68,7 @@ $(document).ready(function(){
                     jsontip.empty();
                     strHtml += "<tr><td></td><td>id</td><td>name</td><td>tel</td><td>addr</td><td>cert</td></tr>";
                     $.each(
-                        data,
+                        data.data,
                         function(infoIndex, info){
                         strHtml += "<tr><td><input type='radio' name='rad' value='" +htmlEncode(info["id"]) + "'>";
                         strHtml += "</input></td><td>" + htmlEncode(info['id']) + "</td>";
@@ -99,8 +99,8 @@ $(document).ready(function(){
                     url,
                     function(data){
                     data = JSON.parse(data);
-                    if(data.id == 0){
-                    alert(data.name);
+                    if(data.code != 0){
+                    alert(data.msg);
                     location.href = "userinfo.html";
                     return false;
                     }
@@ -111,7 +111,7 @@ $(document).ready(function(){
                     strHtml += "<table border='1' align='center'>";
                     strHtml += "<input type='hidden' name='id' value='" + radval +"'></input>";
                     $.each(
-                        data, function(infoIndex, info){
+                        data.data, function(infoIndex, info){
                         strHtml += "<tr><td>Name<input type='text' id='name' name='name' class='nav_td_input' align='left' value='" + htmlEncode(info['name']) + "'></input></td></tr>";
                         strHtml += "<tr><td>Tel<input type='text' id='tel' name='tel' class='nav_td_input' align='left' value='" + htmlEncode(info['tel']) + "'></input></td></tr>";
                         strHtml += "<tr><td>Addr<input type='text' id='addr' name='addr' class='nav_td_input' align='left' value='" + htmlEncode(info['addr']) + "'></input></td></tr>";
