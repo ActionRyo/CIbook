@@ -43,21 +43,13 @@
 						$page = $this->input->post('page');
 						$content = $this->input->post('content');
 
-						$this->model->add_book($name, $cate, $page, $content);
-
-						$data['json'] = $this->model->get_book();
-						if(empty($data['json']))
-						{
-							show_404();		
-                            return;
-						}
+						$data['json'] = $this->model->add_book($name, $cate, $page, $content);
 						$this->load->view('json_view', $data);
 				}
 				public function del($id)
 				{
-						$this->model->delete_book($id);
-					    $this->model->get_book();
-						$this->load->view('json_view');
+						$data['json'] = $this->model->delete_book($id);
+						$this->load->view('json_view', $data);
 				}
 				public function update($id)
 				{
@@ -65,13 +57,7 @@
 						$cate = $this->input->post('cate');
 						$page = $this->input->post('page');
 						$content = $this->input->post('content');
-						$this->model->update_book($name, $cate, $page, $content, $id);
-						$data['json'] = $this->model->get_book();
-						if( empty($data['json']))
-						{
-							show_404();		
-                            return;
-						}
+						$data['json'] = $this->model->update_book($name, $cate, $page, $content, $id);
 						$this->load->view('json_view', $data);
 				}
 		}

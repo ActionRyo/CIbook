@@ -7,7 +7,6 @@
 <script type="text/javascript" src="js/all.js"></script>
 <script language="javascript">
 $(document).ready(function(){
-        //        isLogin();
         $("#sub").hide();
         $("#addbtn").hide();
         if(true){
@@ -66,10 +65,13 @@ $(document).ready(function(){
                     jsontip.empty();
                     strHtml += "<table border='1' align='center'>";
                     strHtml += "<input type='hidden' name='id' value='" + radval + "'></input>";
-                    strHtml += "<tr><td>Name<input type='text' id='name' name='name' class='nav_td_input' align='left' value='" + htmlEncode(data['name']) + "'></input></td></tr>";
-                    strHtml += "<tr><td>Category<input type='text' id='cate' name='cate' class='nav_td_input' align='left' value='" + htmlEncode(data['category']) + "'></input></td></tr>";
-                    strHtml += "<tr><td>Page<input type='text' id='page' name='page' class='nav_td_input' align='left' value='" + htmlEncode(data['page']) + "'></input></td></tr>";
-                    strHtml += "<tr><td>Content<input type='text' id='content' name='content' class='nav_td_input' align='left' value='" + htmlEncode(data['content']) + "'></input></td></tr>";
+                    $.each(
+                        data, function(infoIndex, info){
+                        strHtml += "<tr><td>Name<input type='text' id='name' name='name' class='nav_td_input' align='left' value='" + htmlEncode(info['name']) + "'></input></td></tr>";
+                        strHtml += "<tr><td>Category<input type='text' id='cate' name='cate' class='nav_td_input' align='left' value='" + htmlEncode(info['category']) + "'></input></td></tr>";
+                        strHtml += "<tr><td>Page<input type='text' id='page' name='page' class='nav_td_input' align='left' value='" + htmlEncode(info['page']) + "'></input></td></tr>";
+                        strHtml += "<tr><td>Content<input type='text' id='content' name='content' class='nav_td_input' align='left' value='" + htmlEncode(info['content']) + "'></input></td></tr>";
+                        });
                     strHtml += "</table>";
                     jsontip.html(strHtml);
                     }
@@ -103,8 +105,8 @@ $(document).ready(function(){
                         {name:name, cate:cate, page:page, content:content},
                         function(data){
                         data = JSON.parse(data);
-                        if(data.id == 0){
-                        alert(data.name);
+                        if(data.code != 0){
+                        alert(data.msg);
                         location.href = "bookinfo.html";
                         return false;
                         }
@@ -129,7 +131,7 @@ $(document).ready(function(){
                 $("#addbtn").show();
                 });
         $("#addbtn").click(function()
-        {
+                {
                 var nameele = $("input[name=name]");
                 var cateele = $("input[name=cate]");
                 var pageele = $("input[name=page]");
@@ -147,18 +149,23 @@ $(document).ready(function(){
                 var cate = cateele.val();
                 var page = pageele.val();
                 var content = contentele.val();
-            $.post(
-                "/CIweb/index.php?/book/add",
-                {
-                    name:name,cate:cate, page:page, content:content
-                },
-                function()
-                {
+                $.post(
+                    "/CIweb/index.php?/book/add",
+                    {name:name,cate:cate, page:page, content:content},
+                    function(data)
+                    {
+                    data = JSON.parse(data);
+                    if( data.code != 0)
+                    {
+                    alert(data.msg);
                     location.href = "bookinfo.html";
-                }
-            );
-            $("#addbtn").hide();
-        });
+                    return false;
+                    }
+                    location.href = "bookinfo.html";
+                    }
+                    );
+                $("#addbtn").hide();
+                });
         $("#deletebook").click(function(){
                 var rad = $("input:radio[name=rad]");
                 var radval = 0;
@@ -169,7 +176,14 @@ $(document).ready(function(){
                 url = "/CIweb/index.php?/book/del/" + radval;
                 $.post(
                     url,
-                    function(){
+                    function(data){
+                    data = JSON.parse(data);
+                    if( data.code != 0)
+                    {
+                    alert(data.msg);
+                    location.href = "bookinfo.html";
+                    return false;
+                    }
                     location.href = "bookinfo.html";
                     }
                     );

@@ -29,10 +29,11 @@
         public function add()
         {
             $name = $this->input->post('name');
+            $pwd = sha1('123');
             $tel = $this->input->post('tel');
             $addr = $this->input->post('addr');
             $cert = $this->input->post('cert');
-            $data['json'] = $this->model->add_user($name, $tel, $addr, $cert);
+            $data['json'] = $this->model->add_user($name, $pwd,  $tel, $addr, $cert);
             $this->load->view('json_view', $data);
         }
         public function del( $id = FALSE)
@@ -57,17 +58,4 @@
             $data['json'] = $this->model->update_user($name, $tel, $addr, $cert, $id);
             $this->load->view('json_view', $data);
         }
-       /* public function login()
-        {
-            $name = $this->input->post('name');
-            $pwd = $this->input->post('pwd');
-            
-            $data['json'] = $this->model->login($name, $pwd);
-            $this->load->view('json_view', $data);
-        }
-        public function logout()
-        {
-            $data['json'] = $this->model->logout();
-            $this->load->view('json_view', $data); 
-        }*/
     } 

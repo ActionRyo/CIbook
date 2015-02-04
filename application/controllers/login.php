@@ -18,7 +18,7 @@
         public function dashboard()
         {
             $user_name = $this->session->userdata('user_name');
-            if( $user_name != "" )
+            if( $user_name == "" )
             {
                 $this->load->view('index.html');
                 return;
