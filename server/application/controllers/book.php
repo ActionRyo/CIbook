@@ -3,18 +3,18 @@ class Book extends CI_Controller{
     public function __construct()
     {
         parent::__construct();
-        $this->load->model('mbook/book_service', 'model');
+        $this->load->model('mbook/book_service', 'book_service');
     }
     public function index()
     {
-        $data['json'] = $this->model->get_all_book();
+        $data['json'] = $this->book_service->get_all_book();
         $this->load->view('json_view', $data);
     }
 
 
     public function view($id)
     {
-        $data['json'] = $this->model->get_book($id);
+        $data['json'] = $this->book_service->get_book($id);
         if( $data['json']['code'] != 0 )
         {
             show_404();
@@ -29,12 +29,12 @@ class Book extends CI_Controller{
         $page = $this->input->post('page');
         $content = $this->input->post('content');
 
-        $data['json'] = $this->model->add_book($name, $cate, $page, $content);
+        $data['json'] = $this->book_service->add_book($name, $cate, $page, $content);
         $this->load->view('json_view', $data);
     }
     public function del($id)
     {
-        $data['json'] = $this->model->delete_book($id);
+        $data['json'] = $this->book_service->delete_book($id);
         $this->load->view('json_view', $data);
     }
     public function update($id)
@@ -43,7 +43,7 @@ class Book extends CI_Controller{
         $cate = $this->input->post('cate');
         $page = $this->input->post('page');
         $content = $this->input->post('content');
-        $data['json'] = $this->model->update_book($name, $cate, $page, $content, $id);
+        $data['json'] = $this->book_service->update_book($name, $cate, $page, $content, $id);
         $this->load->view('json_view', $data);
     }
 }

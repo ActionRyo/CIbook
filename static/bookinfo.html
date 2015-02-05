@@ -12,7 +12,7 @@ $(document).ready(function(){
         if(true){
         $("#changebook").show();
         $("#deletebook").show();
-        $.getJSON("/CIweb/server/index.php?/book/view",
+        $.getJSON("/CIweb/server/index.php?/book/index",
             function(data){
             if(data.code != 0){
             alert(data.msg);

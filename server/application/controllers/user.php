@@ -3,16 +3,22 @@
         public function __construct()
         {
             parent::__construct();
-            $this->load->model('muser/user_service', 'model');
+            $this->load->model('muser/user_service', 'user_service');
         }
         public function index()
         {
-            $data['json'] = $this->model->get_all_user();
+            $data['json'] = $this->user_service->get_all_user();
             $this->load->view('json_view', $data);
         }
+
         public function view($id)
         {
-            $data['json'] = $this->model->get_user($id);
+            $data['json'] = $this->user_service->get_user($id);
+            if( $data['json']['code'] != 0)
+            {
+                show_404();
+                return;
+            }
             $this->load->view('json_view', $data);
         }
         public function add()
@@ -22,12 +28,12 @@
             $tel = $this->input->post('tel');
             $addr = $this->input->post('addr');
             $cert = $this->input->post('cert');
-            $data['json'] = $this->model->add_user($name, $pwd,  $tel, $addr, $cert);
+            $data['json'] = $this->user_service->add_user($name, $pwd,  $tel, $addr, $cert);
             $this->load->view('json_view', $data);
         }
         public function del( $id )
         {
-            $data['json'] = $this->model->delete_user($id);
+            $data['json'] = $this->user_service->delete_user($id);
             $this->load->view('json_view', $data);
         }
         public function update( $id )
@@ -37,7 +43,7 @@
             $addr = $this->input->post('addr');
             $cert = $this->input->post('cert');
 
-            $data['json'] = $this->model->update_user($name, $tel, $addr, $cert, $id);
+            $data['json'] = $this->user_service->update_user($name, $tel, $addr, $cert, $id);
             $this->load->view('json_view', $data);
         }
     } 

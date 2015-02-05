@@ -19,6 +19,7 @@ class Book_model extends CI_Model{
     }
     public function get_book($id)
     {
+        $this->db->where('id', $id);
         $query = $this->db->get('t_book');
         $data = $query->result_array();
         return array(

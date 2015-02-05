@@ -3,7 +3,7 @@ class Login extends CI_Controller{
     public function __construct()
     {
         parent::__construct();
-        $this->load->model('muser/user_service', 'model');
+        $this->load->model('muser/user_service', 'login_service');
         $this->load->library('session');
     }
     public function islogin()
@@ -50,8 +50,11 @@ class Login extends CI_Controller{
         $name = $this->input->post('name');
         $pwd = $this->input->post('pwd');
 
-        $data['json'] = $this->model->login($name, $pwd);
-        $this->session->set_userdata('user_name', $name);
+        $data['json'] = $this->login_service->login($name, $pwd);
+        if( $data['json']['code'] == 0 )
+        {
+            $this->session->set_userdata('user_name', $name);
+        }
         $this->load->view('json_view', $data);
     }
     public function checkout()
