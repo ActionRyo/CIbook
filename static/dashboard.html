@@ -8,25 +8,26 @@
 <body>
 <script language="javascript">
 $(document).ready(function(){
-                isLogin();
-				var left = $("#left");
-				var right = $("#tagContent");
-				heightSync(left, right);
-				$('#logout').click(function(){
-						$.post(
-								"/CIweb/server/index.php?/login/checkout",
-								function(){
-								location.href = 'index.html';
-                                return false;
-							  });
-						});
-				$("#h1").click(function(){
-						$("#ifra").attr("src", "userinfo.html?t=" + Math.random());
-						});
-				$("#h2").click(function(){
-						$("#ifra").attr("src", "bookinfo.html?t=" + Math.random());
-						});
-				});
+                isLogin(function(){
+                    var left = $("#left");
+                    var right = $("#tagContent");
+                    heightSync(left, right);
+                    $('#logout').click(function(){
+                        $.post(
+                            "/CIweb/server/index.php?/login/checkout",
+                            function(){
+                            location.href = 'index.html';
+                            return false;
+                            });
+                        });
+                    $("#h1").click(function(){
+                        $("#ifra").attr("src", "userinfo.html?t=" + Math.random());
+                        });
+                    $("#h2").click(function(){
+                        $("#ifra").attr("src", "bookinfo.html?t=" + Math.random());
+                        });
+                    });
+                });
 </script>
 <div>
 <div class="nav">

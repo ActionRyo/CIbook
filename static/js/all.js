@@ -65,36 +65,38 @@ function htmlDecode(str){
 }
 
 //except the login page
-function isLogin(){
+function isLogin(next){
     $.post(
             "/CIweb/server/index.php?/login/islogin",
             function(data){
-            data = JSON.parse(data);
-            if(data.code != 0){
-            alert(data.msg);
-            location.href = "index.html";
-            return false;
-            }
-            return true;
-            }
+                data = JSON.parse(data);
+                if(data.code != 0){
+                    alert(data.msg);
+                    location.href = "index.html";
+                    return false;
+                }
+                next();
+                }
           );
+    return false;
 }
 
 //just for the login page
-function checkLogin(){
+function checkLogin(next){
     $.post(
             "/CIweb/server/index.php?/login/islogin",
             function(data){
-            data = JSON.parse(data);
-            if(data.code == 0){
-            alert('you hava loginned, if you want to change account,please logout in the dashboard page first!!!'
-                );
-            location.href = "dashboard.html";
-            return false;
+                data = JSON.parse(data);
+                if(data.code == 0){
+                    alert('you hava loginned, if you want to change account,please logout in the dashboard page first!!!'
+                    );
+                    location.href = "dashboard.html";
+                    return false;
             }
-            return true;
+            next();
             }
           );
+    return false;
 }
 
 function heightSync(left, right){

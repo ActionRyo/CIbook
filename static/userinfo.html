@@ -6,125 +6,23 @@
 <script type="text/javascript" src="js/all.js"></script>
 <script language="javascript">
 $(document).ready(function(){	
-        isLogin();
-        $("#sub").hide();
-        $("#addbtn").hide();
-        $('#adduser').click(function(){
-            $("#adduser").hide();
-            $("#addbtn").show();
-            var strHtml = "";
-            var addtag = $("#tagUser");
-            strHtml += "<table border='1' align='center'>";
-            strHtml += "<tr><td>Name<input type='text' name='name' align='left' class='nav_td_input'/></td></tr>";
-            strHtml += "<tr><td>Tel<input type='text' name='tel' align='left' class='nav_td_input'/></td></tr>";
-            strHtml += "<tr><td>Addr<input type='text' name='addr' align='left' class='nav_td_input'/></td></tr>";
-            strHtml += "<tr><td>Cert<input type='text' name='cert' align='left' class='nav_td_input'/></td></tr>";
-            strHtml += "</table>";
-            addtag.html(strHtml);
-            });
-        $("#addbtn").click(function(){
-            var nameele = $("input[name=name]");
-            var telele = $("input[name=tel]");
-            var addrele = $("input[name=addr]");
-            var certele = $("input[name=cert]");
-            if(isEmpty(nameele)){
-            location.href = "userinfo.html";
-            return false;
-            }
-
-            var name = nameele.val();
-            var tel = telele.val();
-            var addr = addrele.val();
-            var cert = certele.val();
-            $.post(
-                "/CIweb/server/index.php?/user/add",
-                {name:name, tel:tel, addr:addr, cert:cert},
-                function(data)
-                {
-                data = JSON.parse(data);
-                if(data.code != 0)
-                {
-                alert(data.msg);
-                location.href = "userinfo.html";
-                return false;
-                }
-                location.href = "userinfo.html";
-                }
-                );
-        });
-        if(true){
-            $.getJSON(
-                    "/CIweb/server/index.php?/user/index",
-                    function(data){
-                    if(data.code != 0)
-                    {
-                    alert(data.msg);
-                    location.href = "userinfo.html";
-                    return false;
-                    }
-                    var jsontip = $("#tagUser");
-                    var strHtml = "";
-                    strHtml = "<table border='1' align='center'>";
-                    jsontip.empty();
-                    strHtml += "<tr><td></td><td>id</td><td>name</td><td>tel</td><td>addr</td><td>cert</td></tr>";
-                    $.each(
-                        data.data,
-                        function(infoIndex, info){
-                        strHtml += "<tr><td><input type='radio' name='rad' value='" +htmlEncode(info["id"]) + "'>";
-                        strHtml += "</input></td><td>" + htmlEncode(info['id']) + "</td>";
-                        strHtml += "<td>" + htmlEncode(info['name']) + "</td>";
-                        strHtml += "<td>" + htmlEncode(info['tel']) + "</td>";
-                        strHtml += "<td>" + htmlEncode(info['addr']) + "</td>";
-                        strHtml += "<td>" + htmlEncode(info['cert']) + "</td>"; 
-                        }
-                        );
-                    strHtml += "</tr>";
-                    strHtml += "</table>";
-                    jsontip.html(strHtml);		
-                    }	
-            );
-        }
-        $("#changeuser").click(function(){
-                $("#deleteuser").hide();
+        isLogin(function(){
+            $("#sub").hide();
+            $("#addbtn").hide();
+            $('#adduser').click(function(){
                 $("#adduser").hide();
-                $("#sub").show();
-                var rad = $("input:radio[name=rad]");
-                var radval = 0;
-                var url = "";
-                for(var i=0; i < rad.length; i++){
-                if(rad[i].checked){
-                radval = $("input:radio[name=rad]:checked").val();
-                url = "/CIweb/server/index.php?/user/view/" + radval;
-                $.post(
-                    url,
-                    function(data){
-                    data = JSON.parse(data);
-                    if(data.code != 0){
-                    alert(data.msg);
-                    location.href = "userinfo.html";
-                    return false;
-                    }
-
-                    var jsontip = $("#tagUser");
-                    var strHtml = "";
-                    jsontip.empty();
-                    strHtml += "<table border='1' align='center'>";
-                    strHtml += "<input type='hidden' name='id' value='" + radval +"'></input>";
-                    $.each(
-                        data.data, function(infoIndex, info){
-                        strHtml += "<tr><td>Name<input type='text' id='name' name='name' class='nav_td_input' align='left' value='" + htmlEncode(info['name']) + "'></input></td></tr>";
-                        strHtml += "<tr><td>Tel<input type='text' id='tel' name='tel' class='nav_td_input' align='left' value='" + htmlEncode(info['tel']) + "'></input></td></tr>";
-                        strHtml += "<tr><td>Addr<input type='text' id='addr' name='addr' class='nav_td_input' align='left' value='" + htmlEncode(info['addr']) + "'></input></td></tr>";
-                        strHtml += "<tr><td>Cert<input type='text' id='cert' name='cert' class='nav_td_input' align='left' value='" + htmlEncode(info['cert']) + "'></input></td></tr>";
-                        });
-                    strHtml += "</table>";
-                    jsontip.html(strHtml);
-                    }
-                );
-                }
-                }
-        });
-        $("#sub").click(function(){
+                $("#addbtn").show();
+                var strHtml = "";
+                var addtag = $("#tagUser");
+                strHtml += "<table border='1' align='center'>";
+                strHtml += "<tr><td>Name<input type='text' name='name' align='left' class='nav_td_input'/></td></tr>";
+                strHtml += "<tr><td>Tel<input type='text' name='tel' align='left' class='nav_td_input'/></td></tr>";
+                strHtml += "<tr><td>Addr<input type='text' name='addr' align='left' class='nav_td_input'/></td></tr>";
+                strHtml += "<tr><td>Cert<input type='text' name='cert' align='left' class='nav_td_input'/></td></tr>";
+                strHtml += "</table>";
+                addtag.html(strHtml);
+                });
+            $("#addbtn").click(function(){
                 var nameele = $("input[name=name]");
                 var telele = $("input[name=tel]");
                 var addrele = $("input[name=addr]");
@@ -138,41 +36,13 @@ $(document).ready(function(){
                 var tel = telele.val();
                 var addr = addrele.val();
                 var cert = certele.val();
-
-                var id = $("input[name=id]").val();
-                var url = "";
-                url = "/CIweb/server/index.php?/user/update/" + id;
                 $.post(
-                    url,
+                    "/CIweb/server/index.php?/user/add",
                     {name:name, tel:tel, addr:addr, cert:cert},
-                    function(data){
+                    function(data)
+                    {
                     data = JSON.parse(data);
-                    if( data.code != 0){
-                    alert(data.msg);
-                    location.href = "userinfo.html";
-                    return false;
-                    }
-                    location.href = "userinfo.html";
-                    }
-                    );
-
-                //	$("#sub").hide();
-                $("#deleteuser").show();
-                $("#adduser").show();
-        });
-        $("#deleteuser").click(function(){
-                var rad = $("input:radio[name=rad]");
-                var radval = 0;
-                var url = "";
-                for(var i = 0; i < rad.length; i++){
-                if(rad[i].checked){
-                radval = $("input:radio[name=rad]:checked").val();
-                url = "/CIweb/server/index.php?/user/del/" + radval;
-                $.post(
-                    url,
-                    function(data){
-                    data = JSON.parse(data);
-                    if( data.code != 0)
+                    if(data.code != 0)
                     {
                     alert(data.msg);
                     location.href = "userinfo.html";
@@ -181,9 +51,140 @@ $(document).ready(function(){
                     location.href = "userinfo.html";
                     }
                     );
-                }
-                }
-                $("#deletebook").hide();
+            });
+            if(true){
+                $.getJSON(
+                        "/CIweb/server/index.php?/user/index",
+                        function(data){
+                        if(data.code != 0)
+                        {
+                        alert(data.msg);
+                        location.href = "userinfo.html";
+                        return false;
+                        }
+                        var jsontip = $("#tagUser");
+                        var strHtml = "";
+                        strHtml = "<table border='1' align='center'>";
+                        jsontip.empty();
+                        strHtml += "<tr><td></td><td>id</td><td>name</td><td>tel</td><td>addr</td><td>cert</td></tr>";
+                        $.each(
+                            data.data,
+                            function(infoIndex, info){
+                            strHtml += "<tr><td><input type='radio' name='rad' value='" +htmlEncode(info["id"]) + "'>";
+                            strHtml += "</input></td><td>" + htmlEncode(info['id']) + "</td>";
+                            strHtml += "<td>" + htmlEncode(info['name']) + "</td>";
+                            strHtml += "<td>" + htmlEncode(info['tel']) + "</td>";
+                            strHtml += "<td>" + htmlEncode(info['addr']) + "</td>";
+                            strHtml += "<td>" + htmlEncode(info['cert']) + "</td>"; 
+                            }
+                            );
+                        strHtml += "</tr>";
+                        strHtml += "</table>";
+                        jsontip.html(strHtml);		
+                        }	
+                );
+            }
+            $("#changeuser").click(function(){
+                    $("#deleteuser").hide();
+                    $("#adduser").hide();
+                    $("#sub").show();
+                    var rad = $("input:radio[name=rad]");
+                    var radval = 0;
+                    var url = "";
+                    for(var i=0; i < rad.length; i++){
+                    if(rad[i].checked){
+                    radval = $("input:radio[name=rad]:checked").val();
+                    url = "/CIweb/server/index.php?/user/view/" + radval;
+                    $.post(
+                        url,
+                        function(data){
+                        data = JSON.parse(data);
+                        if(data.code != 0){
+                        alert(data.msg);
+                        location.href = "userinfo.html";
+                        return false;
+                        }
+
+                        var jsontip = $("#tagUser");
+                        var strHtml = "";
+                        jsontip.empty();
+                        strHtml += "<table border='1' align='center'>";
+                        strHtml += "<input type='hidden' name='id' value='" + radval +"'></input>";
+                        $.each(
+                            data.data, function(infoIndex, info){
+                            strHtml += "<tr><td>Name<input type='text' id='name' name='name' class='nav_td_input' align='left' value='" + htmlEncode(info['name']) + "'></input></td></tr>";
+                            strHtml += "<tr><td>Tel<input type='text' id='tel' name='tel' class='nav_td_input' align='left' value='" + htmlEncode(info['tel']) + "'></input></td></tr>";
+                            strHtml += "<tr><td>Addr<input type='text' id='addr' name='addr' class='nav_td_input' align='left' value='" + htmlEncode(info['addr']) + "'></input></td></tr>";
+                            strHtml += "<tr><td>Cert<input type='text' id='cert' name='cert' class='nav_td_input' align='left' value='" + htmlEncode(info['cert']) + "'></input></td></tr>";
+                            });
+                        strHtml += "</table>";
+                        jsontip.html(strHtml);
+                        }
+                    );
+                    }
+                    }
+            });
+            $("#sub").click(function(){
+                    var nameele = $("input[name=name]");
+                    var telele = $("input[name=tel]");
+                    var addrele = $("input[name=addr]");
+                    var certele = $("input[name=cert]");
+                    if(isEmpty(nameele)){
+                    location.href = "userinfo.html";
+                    return false;
+                    }
+
+                    var name = nameele.val();
+                    var tel = telele.val();
+                    var addr = addrele.val();
+                    var cert = certele.val();
+
+                    var id = $("input[name=id]").val();
+                    var url = "";
+                    url = "/CIweb/server/index.php?/user/update/" + id;
+                    $.post(
+                        url,
+                        {name:name, tel:tel, addr:addr, cert:cert},
+                        function(data){
+                        data = JSON.parse(data);
+                        if( data.code != 0){
+                        alert(data.msg);
+                        location.href = "userinfo.html";
+                        return false;
+                        }
+                        location.href = "userinfo.html";
+                        }
+                        );
+
+                    //	$("#sub").hide();
+                    $("#deleteuser").show();
+                    $("#adduser").show();
+            });
+            $("#deleteuser").click(function(){
+                    var rad = $("input:radio[name=rad]");
+                    var radval = 0;
+                    var url = "";
+                    for(var i = 0; i < rad.length; i++){
+                    if(rad[i].checked){
+                    radval = $("input:radio[name=rad]:checked").val();
+                    url = "/CIweb/server/index.php?/user/del/" + radval;
+                    $.post(
+                        url,
+                        function(data){
+                        data = JSON.parse(data);
+                        if( data.code != 0)
+                        {
+                        alert(data.msg);
+                        location.href = "userinfo.html";
+                        return false;
+                        }
+                        location.href = "userinfo.html";
+                        }
+                        );
+                    }
+                    }
+                    $("#deletebook").hide();
+            });
         });
 });
 </script>

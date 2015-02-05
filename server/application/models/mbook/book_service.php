@@ -43,7 +43,7 @@ class Book_service extends CI_Model{
 
     public function add_book( $name, $cate, $page, $content)
     {
-        $data = $this->book_model->get_all_book();
+        $data = $this->book_model->get_by_name($name);
         $tmp = $data['data'];
         foreach($tmp as $key=>$value)
         {
@@ -63,14 +63,6 @@ class Book_service extends CI_Model{
 
     public function update_book( $name, $cate, $page, $content, $id)
     {
-        if( ! is_numeric($page))
-        {
-            return array(
-                'code'=>1,
-                'msg'=>'the page must be a number.',
-                'data'=>''
-            );
-        }
         $data = $this->book_model->get_book($id);
         $tmp = $data['data'];
         $tmp2 = $tmp[0];
@@ -80,7 +72,7 @@ class Book_service extends CI_Model{
             $data = $this->book_model->update_book( $name, $cate, $page, $content, $id);
             return $data;
         }
-        $data = $this->book_model->get_all_book();
+        $data = $this->book_model->get_by_name($name);
         $tmp = $data['data'];
         foreach( $tmp as $key=>$value)
         {

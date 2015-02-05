@@ -1,15 +1,15 @@
 <?php
-class Session_service extends CI_Model{
+class Login_service extends CI_Model{
     public function __construct()
     {
         parent::__construct();
-        $this->load->model('muser/user_model', 'session_model');
+        $this->load->model('muser/user_model', 'user_model');
         $this->load->library('session');
     }
     public function checkin($name, $pwd)
     {
         $password = sha1($pwd);
-        $data = $this->session_model->get_by_name_and_pwd($name, $password);
+        $data = $this->user_model->get_by_name_and_pwd($name, $password);
         if( count($data['data']) == 0)
         {
             return array(

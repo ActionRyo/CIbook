@@ -68,4 +68,15 @@ class User_model extends CI_Model{
             'data'=>$data
         );
     }
+    public function get_by_name($name)
+    {
+        $this->db->where('name', $name);
+        $query = $this->db->get('t_user');
+        $data = $query->result_array();
+        return array(
+            'code'=>0,
+            'msg'=>'',
+            'data'=>$data
+        );        
+    }
 }

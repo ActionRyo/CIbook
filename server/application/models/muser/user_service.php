@@ -17,7 +17,7 @@ class User_service extends CI_Model{
     }
     public function add_user( $name, $password, $tel, $addr, $cert)
     {
-        $data = $this->user_model->get_all_user();
+        $data = $this->user_model->get_by_name($name);
         $tmp = $data['data'];
         foreach( $tmp as $key=>$value)
         {
@@ -51,7 +51,7 @@ class User_service extends CI_Model{
             return $data;
         }
 
-        $data = $this->user_model->get_all_user();
+        $data = $this->user_model->get_by_name($name);
         $tmp = $data['data'];
         foreach($tmp as $key=>$value )
         {

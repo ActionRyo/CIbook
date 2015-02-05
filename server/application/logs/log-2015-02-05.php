@@ -12768,3 +12768,9281 @@ DEBUG - 2015-02-05 13:53:06 --> Session routines successfully run
 DEBUG - 2015-02-05 13:53:06 --> File loaded: application/views/json_view.php
 DEBUG - 2015-02-05 13:53:06 --> Final output sent to browser
 DEBUG - 2015-02-05 13:53:06 --> Total execution time: 0.0154
+DEBUG - 2015-02-05 14:10:33 --> Config Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:10:33 --> URI Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Router Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Output Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Security Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Input Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:10:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:10:33 --> Language Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:10:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:10:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Model Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Model Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Model Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Session Class Initialized
+DEBUG - 2015-02-05 14:10:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:10:33 --> Session routines successfully run
+DEBUG - 2015-02-05 14:10:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:10:33 --> Final output sent to browser
+DEBUG - 2015-02-05 14:10:33 --> Total execution time: 0.0198
+DEBUG - 2015-02-05 14:40:58 --> Config Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:40:58 --> URI Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Router Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Output Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Security Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Input Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:40:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:40:58 --> Language Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:40:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:40:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:40:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Config Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:41:56 --> URI Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Router Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Output Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Security Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Input Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:41:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:41:56 --> Language Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:41:56 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:41:56 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:41:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Config Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:42:07 --> URI Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Router Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Output Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Security Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Input Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:42:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:42:07 --> Language Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:42:07 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:42:07 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Model Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Model Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Config Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:42:07 --> URI Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Router Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Output Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Security Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Input Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:42:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:42:07 --> Language Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:42:07 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:42:07 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Model Class Initialized
+DEBUG - 2015-02-05 14:42:07 --> Model Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Config Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:42:08 --> URI Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Router Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Output Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Security Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Input Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:42:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:42:08 --> Language Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:42:08 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:42:08 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Model Class Initialized
+DEBUG - 2015-02-05 14:42:08 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:38 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:38 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:38 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:38 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:38 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:38 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:38 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:38 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:38 --> Total execution time: 0.0123
+DEBUG - 2015-02-05 14:43:41 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:41 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:41 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:41 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:41 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:41 --> Total execution time: 0.0126
+DEBUG - 2015-02-05 14:43:41 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:41 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:41 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:41 --> A session cookie was not found.
+DEBUG - 2015-02-05 14:43:41 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:41 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:41 --> Total execution time: 0.0124
+DEBUG - 2015-02-05 14:43:44 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:44 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:44 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:44 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:44 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:44 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:44 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:44 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:44 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:44 --> Total execution time: 0.0168
+DEBUG - 2015-02-05 14:43:45 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:45 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:45 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:45 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:45 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:45 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:45 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:45 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:45 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:45 --> Total execution time: 0.0153
+DEBUG - 2015-02-05 14:43:50 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:50 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:50 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:50 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:50 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:50 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:50 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:50 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:50 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:50 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:50 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 14:43:50 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:50 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:50 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:50 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:50 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:50 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:50 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:50 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:50 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:50 --> Total execution time: 0.0151
+DEBUG - 2015-02-05 14:43:52 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:52 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:52 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:52 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:52 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:52 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:52 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:52 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Session routines successfully run
+ERROR - 2015-02-05 14:43:52 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:52 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:52 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:52 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 14:43:52 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:52 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:52 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:52 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:52 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:52 --> Total execution time: 0.0127
+DEBUG - 2015-02-05 14:43:53 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:53 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:53 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:53 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:53 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:53 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:53 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:53 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:53 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:53 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 14:43:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:53 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:53 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:53 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:53 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:53 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 14:43:54 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:54 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:54 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:54 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:54 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Language Class Initialized
+ERROR - 2015-02-05 14:43:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:54 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:54 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:54 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:54 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:54 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 14:43:54 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:54 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:54 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:54 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:54 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:54 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 14:43:54 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:55 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:55 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:55 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:55 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:55 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:55 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+ERROR - 2015-02-05 14:43:55 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:55 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:55 --> Total execution time: 0.0133
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:55 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:55 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:55 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:55 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 14:43:55 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:55 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:55 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:55 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:55 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:55 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:55 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:55 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:55 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:55 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:55 --> Total execution time: 0.0131
+ERROR - 2015-02-05 14:43:55 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:55 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:55 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:55 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:55 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:55 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 14:43:55 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:55 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:55 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Hooks Class Initialized
+ERROR - 2015-02-05 14:43:55 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:55 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:55 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:55 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:55 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:55 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:55 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 14:43:55 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:55 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:55 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:55 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:55 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:55 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:55 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:55 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:55 --> Total execution time: 0.0165
+DEBUG - 2015-02-05 14:43:56 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:56 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:56 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:56 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:56 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:56 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:56 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:56 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:56 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:56 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 14:43:56 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:56 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:56 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:56 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:56 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:56 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:56 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 14:43:56 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:56 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:56 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:56 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:56 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:56 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:56 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+ERROR - 2015-02-05 14:43:56 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:56 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:56 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:56 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 14:43:56 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:56 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:56 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:56 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:56 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:56 --> Total execution time: 0.0151
+DEBUG - 2015-02-05 14:43:57 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:57 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:57 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:57 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:57 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Session Class Initialized
+ERROR - 2015-02-05 14:43:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:57 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:57 --> Total execution time: 0.0134
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:57 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:57 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:57 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 14:43:57 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:57 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:57 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:57 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+ERROR - 2015-02-05 14:43:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:57 --> Total execution time: 0.0123
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:57 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:57 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:57 --> Total execution time: 0.0128
+DEBUG - 2015-02-05 14:43:57 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:57 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:57 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:57 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:57 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+ERROR - 2015-02-05 14:43:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:57 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:57 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:57 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 14:43:57 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:57 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:57 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:57 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 14:43:57 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:58 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:58 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:58 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Input Class Initialized
+ERROR - 2015-02-05 14:43:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:58 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:58 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:58 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:58 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:58 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:58 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 14:43:58 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:58 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:58 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:58 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:58 --> Total execution time: 0.0155
+DEBUG - 2015-02-05 14:43:58 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:58 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:58 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:58 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:58 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Helper loaded: string_helper
+ERROR - 2015-02-05 14:43:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:58 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:58 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:58 --> Total execution time: 0.0133
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:58 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:58 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:58 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:58 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 14:43:58 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:58 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:58 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:58 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+ERROR - 2015-02-05 14:43:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:58 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 14:43:58 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:58 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:58 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:58 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:58 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:58 --> Total execution time: 0.0153
+DEBUG - 2015-02-05 14:43:59 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:59 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:59 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:59 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:59 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:59 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:59 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+ERROR - 2015-02-05 14:43:59 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:59 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:59 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:59 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:59 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:59 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:59 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:59 --> Total execution time: 0.0181
+DEBUG - 2015-02-05 14:43:59 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:59 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:59 --> Total execution time: 0.0177
+DEBUG - 2015-02-05 14:43:59 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:59 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Config Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:43:59 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> URI Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Router Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Output Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:59 --> Security Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Input Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:43:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:43:59 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Language Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:59 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:59 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:43:59 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:43:59 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:59 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:59 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Session Class Initialized
+DEBUG - 2015-02-05 14:43:59 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:43:59 --> Session routines successfully run
+DEBUG - 2015-02-05 14:43:59 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:43:59 --> Final output sent to browser
+DEBUG - 2015-02-05 14:43:59 --> Total execution time: 0.0145
+DEBUG - 2015-02-05 14:44:06 --> Config Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:44:06 --> URI Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Router Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Output Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Security Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Input Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:44:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:44:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:44:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:44:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:44:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:44:06 --> Language Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:44:06 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:44:06 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Model Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Model Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Model Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Model Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Model Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Session Class Initialized
+DEBUG - 2015-02-05 14:44:06 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:44:06 --> Session routines successfully run
+ERROR - 2015-02-05 14:44:06 --> Severity: Warning  --> Missing argument 1 for Book_model::get_by_name(), called in /Users/donnol/www/CIweb/server/application/models/mbook/book_service.php on line 46 and defined /Users/donnol/www/CIweb/server/application/models/mbook/book_model.php 60
+ERROR - 2015-02-05 14:44:06 --> Severity: Notice  --> Undefined variable: name /Users/donnol/www/CIweb/server/application/models/mbook/book_model.php 62
+DEBUG - 2015-02-05 14:44:06 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:44:06 --> Final output sent to browser
+DEBUG - 2015-02-05 14:44:06 --> Total execution time: 0.0154
+DEBUG - 2015-02-05 14:47:21 --> Config Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:47:21 --> Config Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> URI Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:47:21 --> Router Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> URI Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Output Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Router Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Security Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Output Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Input Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Security Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:47:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:47:21 --> Language Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Input Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:47:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:47:21 --> Language Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:47:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:47:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Model Class Initialized
+ERROR - 2015-02-05 14:47:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:47:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Session Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:47:21 --> Session routines successfully run
+DEBUG - 2015-02-05 14:47:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:47:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Final output sent to browser
+DEBUG - 2015-02-05 14:47:21 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 14:47:21 --> Session Class Initialized
+DEBUG - 2015-02-05 14:47:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:47:21 --> Session routines successfully run
+DEBUG - 2015-02-05 14:47:21 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:47:21 --> Final output sent to browser
+DEBUG - 2015-02-05 14:47:21 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 14:47:30 --> Config Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:47:30 --> URI Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Router Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Output Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Security Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Input Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:47:30 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:47:30 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:47:30 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:47:30 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:47:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:47:30 --> Language Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:47:30 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:47:30 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Session Class Initialized
+DEBUG - 2015-02-05 14:47:30 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:47:30 --> Session routines successfully run
+ERROR - 2015-02-05 14:47:30 --> Severity: Warning  --> Missing argument 1 for Book_model::get_by_name(), called in /Users/donnol/www/CIweb/server/application/models/mbook/book_service.php on line 46 and defined /Users/donnol/www/CIweb/server/application/models/mbook/book_model.php 60
+ERROR - 2015-02-05 14:47:30 --> Severity: Notice  --> Undefined variable: name /Users/donnol/www/CIweb/server/application/models/mbook/book_model.php 62
+DEBUG - 2015-02-05 14:47:30 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:47:30 --> Final output sent to browser
+DEBUG - 2015-02-05 14:47:30 --> Total execution time: 0.0155
+DEBUG - 2015-02-05 14:47:46 --> Config Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:47:46 --> URI Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Config Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Router Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:47:46 --> Output Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> URI Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Router Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Security Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Input Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Output Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:47:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:47:46 --> Security Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Language Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Input Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:47:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:47:46 --> Language Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:47:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:47:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:47:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:47:46 --> Session Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:47:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Session routines successfully run
+DEBUG - 2015-02-05 14:47:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:47:46 --> Final output sent to browser
+DEBUG - 2015-02-05 14:47:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 14:47:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Session Class Initialized
+DEBUG - 2015-02-05 14:47:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:47:46 --> Session routines successfully run
+DEBUG - 2015-02-05 14:47:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:47:46 --> Final output sent to browser
+DEBUG - 2015-02-05 14:47:46 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 14:51:24 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:24 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:24 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:24 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:24 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:24 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:24 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:24 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:24 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:24 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:24 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:24 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:24 --> Total execution time: 0.0150
+DEBUG - 2015-02-05 14:51:24 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:24 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:24 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:24 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:24 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:24 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:24 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Session Class Initialized
+ERROR - 2015-02-05 14:51:24 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:24 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:24 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:24 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:24 --> Total execution time: 0.0134
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:24 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:24 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:24 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:24 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:24 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 14:51:34 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:34 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:34 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:34 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:34 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:34 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:34 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:34 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:34 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:34 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 14:51:36 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:36 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:36 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:36 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:36 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:36 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:36 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:36 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:36 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:36 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:36 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:36 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:36 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:36 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:36 --> Total execution time: 0.0150
+DEBUG - 2015-02-05 14:51:36 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:36 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:36 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:36 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:36 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 14:51:38 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:38 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:38 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:38 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:38 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:38 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:38 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:38 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:38 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:38 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 14:51:42 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:42 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:42 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:42 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:42 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:42 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:42 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:42 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 14:51:42 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:42 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:42 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:42 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:42 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:42 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Session Class Initialized
+ERROR - 2015-02-05 14:51:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:42 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:42 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:42 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:42 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:42 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Total execution time: 0.0127
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:42 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:42 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:42 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:42 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:42 --> Total execution time: 0.0147
+DEBUG - 2015-02-05 14:51:44 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:44 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:44 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:44 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:44 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:44 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:44 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:44 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:44 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:44 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 14:51:46 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:46 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:46 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:46 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:46 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:46 --> Total execution time: 0.0155
+DEBUG - 2015-02-05 14:51:46 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:46 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:46 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:46 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:46 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:46 --> Session routines successfully run
+ERROR - 2015-02-05 14:51:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:46 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:46 --> Total execution time: 0.0125
+DEBUG - 2015-02-05 14:51:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:46 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:46 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:46 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 14:51:49 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:49 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:49 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:49 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:49 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:49 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:49 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:49 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:49 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:49 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 14:51:51 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:51 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:51 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:51 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:51 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:51 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:51 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:51 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:51 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:51 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:51 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:51 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:51 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:51 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 14:51:53 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:53 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:53 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:53 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:53 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:53 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:53 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Model Class Initialized
+ERROR - 2015-02-05 14:51:53 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:53 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:53 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Total execution time: 0.0154
+DEBUG - 2015-02-05 14:51:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:53 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:53 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:53 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:53 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:53 --> Total execution time: 0.0152
+DEBUG - 2015-02-05 14:51:54 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:54 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Config Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:51:54 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> URI Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Router Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Output Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:54 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Security Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Input Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:51:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:51:54 --> Language Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:54 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:51:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:51:54 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:54 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:54 --> Total execution time: 0.0124
+DEBUG - 2015-02-05 14:51:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Model Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Session Class Initialized
+DEBUG - 2015-02-05 14:51:54 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:51:54 --> Session routines successfully run
+DEBUG - 2015-02-05 14:51:54 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:51:54 --> Final output sent to browser
+DEBUG - 2015-02-05 14:51:54 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 14:52:03 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:03 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:03 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:03 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:03 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:03 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:03 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:03 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:03 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:03 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:03 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:03 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:03 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 14:52:03 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:03 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:03 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:03 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:03 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:03 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:03 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:03 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:03 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:03 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:03 --> Total execution time: 0.0124
+DEBUG - 2015-02-05 14:52:03 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:03 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:03 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:03 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:03 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:03 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:03 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:03 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 14:52:06 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:06 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:06 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:06 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:06 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:06 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:06 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:06 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:06 --> Total execution time: 0.0134
+DEBUG - 2015-02-05 14:52:08 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:08 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:08 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:08 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:08 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:08 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:08 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:08 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:08 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 14:52:32 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:32 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:32 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:32 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:32 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:32 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:32 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:32 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:32 --> Total execution time: 0.0171
+DEBUG - 2015-02-05 14:52:32 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:32 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:32 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:32 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:32 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:32 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:32 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:32 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:32 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:32 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 14:52:33 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:33 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:33 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:33 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:33 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:33 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 14:52:33 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:33 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:33 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:33 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:33 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:33 --> Total execution time: 0.0157
+DEBUG - 2015-02-05 14:52:34 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:34 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:34 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:34 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:34 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:34 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:34 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:34 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:34 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:34 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 14:52:35 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:35 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:35 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:35 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:35 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:35 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:35 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:35 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:35 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:35 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 14:52:59 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:59 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Config Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:52:59 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> URI Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Router Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:59 --> Output Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Security Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Input Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:52:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:52:59 --> Language Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:59 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:59 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:52:59 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:52:59 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:59 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:59 --> Total execution time: 0.0140
+DEBUG - 2015-02-05 14:52:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Model Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Session Class Initialized
+DEBUG - 2015-02-05 14:52:59 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:52:59 --> Session routines successfully run
+DEBUG - 2015-02-05 14:52:59 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:52:59 --> Final output sent to browser
+DEBUG - 2015-02-05 14:52:59 --> Total execution time: 0.0145
+DEBUG - 2015-02-05 14:53:01 --> Config Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:53:01 --> URI Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Router Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Output Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Security Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Input Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:53:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:53:01 --> Language Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:53:01 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:53:01 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Model Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Model Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Model Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Model Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Session Class Initialized
+DEBUG - 2015-02-05 14:53:01 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:53:01 --> Session routines successfully run
+DEBUG - 2015-02-05 14:53:01 --> Final output sent to browser
+DEBUG - 2015-02-05 14:53:01 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 14:55:17 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:17 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:17 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:17 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:17 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:55:17 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:17 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:55:17 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:17 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:55:17 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:17 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 14:55:17 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:55:17 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:17 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:17 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:55:17 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:17 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:55:17 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:17 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 14:55:19 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:19 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:19 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:19 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:19 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:55:19 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:19 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:55:19 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:19 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:55:19 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:19 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:55:19 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:19 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Total execution time: 0.0145
+DEBUG - 2015-02-05 14:55:19 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:19 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:55:19 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:19 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:55:19 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:19 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 14:55:21 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:21 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:21 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:55:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:55:21 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:21 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:21 --> Total execution time: 0.0133
+DEBUG - 2015-02-05 14:55:39 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:39 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:39 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:55:39 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:39 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:39 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:55:39 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:39 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:55:39 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:39 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 14:55:41 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:41 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:41 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:55:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:55:41 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:55:41 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:41 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 14:55:41 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:41 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:41 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:41 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:41 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:55:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Helper loaded: string_helper
+ERROR - 2015-02-05 14:55:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:41 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:55:41 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:55:41 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:55:41 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:41 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 14:55:45 --> Config Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:55:45 --> URI Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Router Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Output Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Security Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Input Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:55:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:55:45 --> Language Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:55:45 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:55:45 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Model Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Session Class Initialized
+DEBUG - 2015-02-05 14:55:45 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:55:45 --> Session routines successfully run
+DEBUG - 2015-02-05 14:55:45 --> Final output sent to browser
+DEBUG - 2015-02-05 14:55:45 --> Total execution time: 0.0132
+DEBUG - 2015-02-05 14:59:43 --> Config Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:59:43 --> URI Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Router Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Output Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Security Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Input Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:59:43 --> Language Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:59:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:59:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Session Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:59:43 --> Session routines successfully run
+DEBUG - 2015-02-05 14:59:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:59:43 --> Final output sent to browser
+DEBUG - 2015-02-05 14:59:43 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 14:59:43 --> Config Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:59:43 --> URI Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Router Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Output Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Security Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Input Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:59:43 --> Language Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:59:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:59:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Session Class Initialized
+DEBUG - 2015-02-05 14:59:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:59:43 --> A session cookie was not found.
+DEBUG - 2015-02-05 14:59:43 --> Session routines successfully run
+DEBUG - 2015-02-05 14:59:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:59:43 --> Final output sent to browser
+DEBUG - 2015-02-05 14:59:43 --> Total execution time: 0.0152
+DEBUG - 2015-02-05 14:59:46 --> Config Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:59:46 --> URI Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Router Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Output Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Security Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Input Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:59:46 --> Language Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:59:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:59:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Session Class Initialized
+DEBUG - 2015-02-05 14:59:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:59:46 --> Session routines successfully run
+DEBUG - 2015-02-05 14:59:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:59:46 --> Final output sent to browser
+DEBUG - 2015-02-05 14:59:46 --> Total execution time: 0.0122
+DEBUG - 2015-02-05 14:59:48 --> Config Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:59:48 --> URI Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Router Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Output Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Security Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Input Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:59:48 --> Language Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:59:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:59:48 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Session Class Initialized
+DEBUG - 2015-02-05 14:59:48 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:59:48 --> Session routines successfully run
+DEBUG - 2015-02-05 14:59:48 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:59:48 --> Final output sent to browser
+DEBUG - 2015-02-05 14:59:48 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 14:59:52 --> Config Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:59:52 --> URI Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Router Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Output Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Security Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Input Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:52 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:52 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:59:52 --> Language Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:59:52 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:59:52 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Session Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:59:52 --> Session routines successfully run
+DEBUG - 2015-02-05 14:59:52 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:59:52 --> Final output sent to browser
+DEBUG - 2015-02-05 14:59:52 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 14:59:52 --> Config Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:59:52 --> URI Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Router Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Output Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Security Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Input Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:59:52 --> Language Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:59:52 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:59:52 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Session Class Initialized
+DEBUG - 2015-02-05 14:59:52 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:59:52 --> Session routines successfully run
+DEBUG - 2015-02-05 14:59:52 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:59:52 --> Final output sent to browser
+DEBUG - 2015-02-05 14:59:52 --> Total execution time: 0.0152
+DEBUG - 2015-02-05 14:59:53 --> Config Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:59:53 --> URI Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Router Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Config Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Output Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:59:53 --> URI Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Security Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Router Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Input Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:59:53 --> Output Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Language Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Security Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Input Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:59:53 --> Language Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:59:53 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:59:53 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:59:53 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:59:53 --> Session Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:59:53 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Session routines successfully run
+DEBUG - 2015-02-05 14:59:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:59:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Final output sent to browser
+DEBUG - 2015-02-05 14:59:53 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 14:59:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Session Class Initialized
+DEBUG - 2015-02-05 14:59:53 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:59:53 --> Session routines successfully run
+DEBUG - 2015-02-05 14:59:53 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:59:53 --> Final output sent to browser
+DEBUG - 2015-02-05 14:59:53 --> Total execution time: 0.0133
+DEBUG - 2015-02-05 14:59:55 --> Config Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Hooks Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 14:59:55 --> URI Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Router Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Output Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Security Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Input Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> XSS Filtering completed
+DEBUG - 2015-02-05 14:59:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 14:59:55 --> Language Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Loader Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Database Driver Class Initialized
+ERROR - 2015-02-05 14:59:55 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 14:59:55 --> Controller Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Model Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Session Class Initialized
+DEBUG - 2015-02-05 14:59:55 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 14:59:55 --> Session routines successfully run
+DEBUG - 2015-02-05 14:59:55 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 14:59:55 --> Final output sent to browser
+DEBUG - 2015-02-05 14:59:55 --> Total execution time: 0.0134
+DEBUG - 2015-02-05 15:00:01 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:01 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:01 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:01 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:01 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:01 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:01 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:01 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:01 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:01 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:01 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:01 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:01 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:01 --> Total execution time: 0.0151
+DEBUG - 2015-02-05 15:00:02 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:02 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:02 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:02 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:02 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:02 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Loader Class Initialized
+ERROR - 2015-02-05 15:00:02 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:02 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:02 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:02 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:02 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:02 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 15:00:02 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:02 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:02 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:02 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:02 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:02 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:02 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:02 --> Total execution time: 0.0126
+DEBUG - 2015-02-05 15:00:05 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:05 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:05 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:05 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:05 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:05 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:05 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:05 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:05 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:05 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:00:06 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:06 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:06 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:06 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:06 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:06 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:06 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:06 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:06 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:06 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:06 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 15:00:07 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:07 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:07 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:07 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:07 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:07 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:07 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:07 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:07 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:07 --> Final output sent to browser
+ERROR - 2015-02-05 15:00:07 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:07 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 15:00:07 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:07 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:07 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:07 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:07 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:07 --> Total execution time: 0.0132
+DEBUG - 2015-02-05 15:00:10 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:10 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:10 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:10 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:10 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:10 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:10 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:10 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:10 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:10 --> Total execution time: 0.0134
+DEBUG - 2015-02-05 15:00:12 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:12 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:12 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:12 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:12 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:12 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:12 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:12 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:12 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:12 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:12 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:12 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:12 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:12 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 15:00:13 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:13 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:13 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:13 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:13 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:13 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:13 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Helper loaded: string_helper
+ERROR - 2015-02-05 15:00:13 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:13 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:13 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:13 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:13 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Total execution time: 0.0132
+DEBUG - 2015-02-05 15:00:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:13 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:13 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:13 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:13 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:13 --> Total execution time: 0.0127
+DEBUG - 2015-02-05 15:00:18 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:18 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:18 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:18 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:18 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:18 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:18 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:18 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:18 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:18 --> Total execution time: 0.0133
+DEBUG - 2015-02-05 15:00:20 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:20 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:20 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:20 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:20 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:20 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:20 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:20 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:20 --> Total execution time: 0.0152
+DEBUG - 2015-02-05 15:00:20 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:20 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:20 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:20 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:20 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:20 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:20 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:20 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:20 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:20 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:20 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:20 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 15:00:20 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:20 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:20 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:20 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:20 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:20 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:20 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:20 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:00:21 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:21 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:21 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:21 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:21 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:21 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:21 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:21 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:21 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:21 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 15:00:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:21 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:21 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:21 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:21 --> Total execution time: 0.0179
+DEBUG - 2015-02-05 15:00:27 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:27 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:27 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:27 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:27 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:27 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:27 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:27 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:27 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 15:00:27 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:27 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:27 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:27 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:27 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:27 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:27 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:27 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:27 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:27 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:27 --> Total execution time: 0.0122
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:27 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:27 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:27 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:27 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:27 --> Total execution time: 0.0134
+DEBUG - 2015-02-05 15:00:30 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:30 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:30 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:30 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:30 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:30 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:30 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:30 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:30 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:30 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:00:34 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:34 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:34 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:34 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:34 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:34 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:34 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:34 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:34 --> Total execution time: 0.0148
+DEBUG - 2015-02-05 15:00:34 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:34 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:34 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:34 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:34 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:34 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:34 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Session Class Initialized
+ERROR - 2015-02-05 15:00:34 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:34 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:34 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:34 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:34 --> Total execution time: 0.0128
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:34 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:34 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:34 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:34 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:34 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 15:00:36 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:36 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:36 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:36 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:36 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:36 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:36 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:36 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:36 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:36 --> Total execution time: 0.0134
+DEBUG - 2015-02-05 15:00:37 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:37 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:37 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:37 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:37 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:37 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:37 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:37 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:37 --> Total execution time: 0.0152
+DEBUG - 2015-02-05 15:00:37 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:37 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:37 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:37 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:37 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:37 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:37 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:37 --> Session routines successfully run
+ERROR - 2015-02-05 15:00:37 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:37 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:37 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:37 --> Total execution time: 0.0122
+DEBUG - 2015-02-05 15:00:37 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:38 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:38 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:38 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:38 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:38 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:38 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 15:00:39 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:39 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:39 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:39 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:39 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:39 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:39 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:39 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:39 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:39 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:00:43 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:43 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:43 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:43 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:43 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:43 --> Total execution time: 0.0148
+DEBUG - 2015-02-05 15:00:43 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:43 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:43 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:43 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:43 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:43 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:43 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:43 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:43 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:43 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:43 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 15:00:46 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:46 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:46 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:46 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:46 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:46 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:00:49 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:49 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:49 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:49 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:49 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:49 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:49 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:49 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:49 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:49 --> Total execution time: 0.0147
+DEBUG - 2015-02-05 15:00:50 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:50 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:50 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:50 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:51 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:51 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:51 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:51 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Model Class Initialized
+ERROR - 2015-02-05 15:00:51 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:51 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:51 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 15:00:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:51 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:51 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:51 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:51 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:51 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 15:00:54 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:54 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:54 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:54 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:54 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:54 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:54 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:54 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:00:54 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:54 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:54 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:54 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:54 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:54 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Helper loaded: string_helper
+ERROR - 2015-02-05 15:00:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:54 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:54 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:54 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:54 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Total execution time: 0.0126
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:54 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:54 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:54 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:54 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:54 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 15:00:57 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:57 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:57 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:57 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:57 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:57 --> Total execution time: 0.0133
+DEBUG - 2015-02-05 15:00:57 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:57 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:57 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:57 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:57 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Helper loaded: string_helper
+ERROR - 2015-02-05 15:00:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:57 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:57 --> Total execution time: 0.0117
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:57 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:57 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:57 --> Total execution time: 0.0127
+DEBUG - 2015-02-05 15:00:59 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:59 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Config Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:00:59 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> URI Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Router Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:59 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Output Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Security Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Input Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:00:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:00:59 --> Language Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:00:59 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:59 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:59 --> Session routines successfully run
+ERROR - 2015-02-05 15:00:59 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:00:59 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:59 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:59 --> Total execution time: 0.0134
+DEBUG - 2015-02-05 15:00:59 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Model Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Session Class Initialized
+DEBUG - 2015-02-05 15:00:59 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:00:59 --> Session routines successfully run
+DEBUG - 2015-02-05 15:00:59 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:00:59 --> Final output sent to browser
+DEBUG - 2015-02-05 15:00:59 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:01:04 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:04 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:04 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:04 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:04 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:04 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:04 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:04 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:04 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:04 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:04 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:04 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:04 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 15:01:04 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:04 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:04 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:04 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:04 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:04 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:04 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Session Class Initialized
+ERROR - 2015-02-05 15:01:04 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:04 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:04 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:04 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:04 --> Total execution time: 0.0126
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:04 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:04 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:04 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:04 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:04 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:01:07 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:07 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:07 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:07 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:07 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:07 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:07 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:07 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:07 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:07 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:01:09 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:09 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:09 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:09 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:09 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:09 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:09 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:09 --> Total execution time: 0.0148
+DEBUG - 2015-02-05 15:01:09 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:09 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:09 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:09 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:09 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:09 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:09 --> Session routines successfully run
+ERROR - 2015-02-05 15:01:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:09 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:09 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:09 --> Total execution time: 0.0128
+DEBUG - 2015-02-05 15:01:09 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:09 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:09 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:09 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:09 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:09 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 15:01:11 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:11 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:11 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:11 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:11 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:11 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:11 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:11 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:11 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:11 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:01:14 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:14 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:14 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:14 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:14 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:14 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:14 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:14 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:14 --> Total execution time: 0.0150
+DEBUG - 2015-02-05 15:01:14 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:14 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:14 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:14 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:14 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:14 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:14 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:14 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:14 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:14 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:14 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:14 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 15:01:14 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:14 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:14 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:14 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:14 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:14 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:14 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:14 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 15:01:17 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:17 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:17 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:17 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:17 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:17 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:17 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:17 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:17 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:17 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:01:20 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:20 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:20 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:20 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:20 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:20 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:20 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:20 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:20 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:20 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 15:01:21 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:21 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:21 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:21 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:21 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:21 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Session routines successfully run
+ERROR - 2015-02-05 15:01:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:21 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:21 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:21 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:01:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:21 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:21 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:21 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:21 --> Total execution time: 0.0128
+DEBUG - 2015-02-05 15:01:26 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:26 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:26 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:26 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:26 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:26 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:26 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:26 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:26 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:01:26 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:26 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:26 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:26 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:26 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:26 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:26 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Helper loaded: string_helper
+ERROR - 2015-02-05 15:01:26 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:26 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:26 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:26 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:26 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Total execution time: 0.0120
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:26 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:26 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:26 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:26 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:26 --> Total execution time: 0.0128
+DEBUG - 2015-02-05 15:01:31 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:31 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:31 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:31 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:31 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:31 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:31 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:31 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:31 --> Total execution time: 0.0122
+DEBUG - 2015-02-05 15:01:31 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:31 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:31 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:31 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:31 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:31 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:31 --> A session cookie was not found.
+DEBUG - 2015-02-05 15:01:31 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:31 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:31 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:31 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 15:01:35 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:35 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:35 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:35 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:35 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:35 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:35 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:35 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:35 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:35 --> Total execution time: 0.0134
+DEBUG - 2015-02-05 15:01:36 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:36 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:36 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:36 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:36 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:36 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:36 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:36 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:36 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:36 --> Total execution time: 0.0125
+DEBUG - 2015-02-05 15:01:43 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:43 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:43 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:43 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:43 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:43 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:43 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 15:01:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:43 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:43 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:43 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:01:47 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:47 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:47 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:47 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:47 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:47 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:47 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Model Class Initialized
+ERROR - 2015-02-05 15:01:47 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:47 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:47 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:47 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:47 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:47 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:47 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:47 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 15:01:47 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:47 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:47 --> Total execution time: 0.0158
+DEBUG - 2015-02-05 15:01:49 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:49 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:49 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:49 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:49 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:49 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:49 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:49 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:49 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:49 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:49 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:49 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:49 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:49 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:49 --> Total execution time: 0.0156
+DEBUG - 2015-02-05 15:01:49 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:49 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:49 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:49 --> Total execution time: 0.0147
+DEBUG - 2015-02-05 15:01:51 --> Config Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:01:51 --> URI Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Router Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Output Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Security Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Input Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:01:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:01:51 --> Language Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:01:51 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:01:51 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Model Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Session Class Initialized
+DEBUG - 2015-02-05 15:01:51 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:01:51 --> Session routines successfully run
+DEBUG - 2015-02-05 15:01:51 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:01:51 --> Final output sent to browser
+DEBUG - 2015-02-05 15:01:51 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 15:02:39 --> Config Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:02:39 --> URI Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Router Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Config Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:02:39 --> Output Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> URI Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Router Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Security Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Output Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Input Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:02:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:02:39 --> Language Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Security Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Input Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:02:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:02:39 --> Language Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:02:39 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:02:39 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:02:39 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:02:39 --> Session Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:02:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Session routines successfully run
+DEBUG - 2015-02-05 15:02:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:02:39 --> Final output sent to browser
+DEBUG - 2015-02-05 15:02:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 15:02:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Session Class Initialized
+DEBUG - 2015-02-05 15:02:39 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:02:39 --> Session routines successfully run
+DEBUG - 2015-02-05 15:02:39 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:02:39 --> Final output sent to browser
+DEBUG - 2015-02-05 15:02:39 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:02:41 --> Config Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:02:41 --> URI Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Router Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Config Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:02:41 --> Output Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> URI Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Security Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Router Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Input Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Output Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:02:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:02:41 --> Security Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Language Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Input Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:02:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:02:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Language Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:02:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:02:41 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Model Class Initialized
+ERROR - 2015-02-05 15:02:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:02:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Session Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:02:41 --> Session routines successfully run
+DEBUG - 2015-02-05 15:02:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:02:41 --> Session Class Initialized
+DEBUG - 2015-02-05 15:02:41 --> Final output sent to browser
+DEBUG - 2015-02-05 15:02:41 --> Total execution time: 0.0150
+DEBUG - 2015-02-05 15:02:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:02:41 --> Session routines successfully run
+DEBUG - 2015-02-05 15:02:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:02:41 --> Final output sent to browser
+DEBUG - 2015-02-05 15:02:41 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:02:43 --> Config Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:02:43 --> URI Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Router Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Config Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:02:43 --> Output Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> URI Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Security Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Router Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Input Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Output Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:02:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:02:43 --> Language Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Security Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Input Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:02:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:02:43 --> Language Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:02:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:02:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:02:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:02:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Session Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:02:43 --> Session Class Initialized
+DEBUG - 2015-02-05 15:02:43 --> Session routines successfully run
+DEBUG - 2015-02-05 15:02:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:02:43 --> Final output sent to browser
+DEBUG - 2015-02-05 15:02:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:02:43 --> Total execution time: 0.0160
+DEBUG - 2015-02-05 15:02:43 --> Session routines successfully run
+DEBUG - 2015-02-05 15:02:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:02:43 --> Final output sent to browser
+DEBUG - 2015-02-05 15:02:43 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 15:02:44 --> Config Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:02:44 --> URI Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Router Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Output Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Security Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Input Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:02:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:02:44 --> Language Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:02:44 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:02:44 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Session Class Initialized
+DEBUG - 2015-02-05 15:02:44 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:02:44 --> Session routines successfully run
+DEBUG - 2015-02-05 15:02:44 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:02:44 --> Final output sent to browser
+DEBUG - 2015-02-05 15:02:44 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 15:07:03 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:03 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:03 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:03 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:03 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:03 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:03 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:03 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:03 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:03 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:03 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:03 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:03 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:03 --> Total execution time: 0.0123
+DEBUG - 2015-02-05 15:07:03 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:03 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:03 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:03 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:03 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:03 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 15:07:07 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:07 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:07 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:07 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:07 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:07 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:07 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:07 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:07 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:07 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 15:07:14 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:14 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:14 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:14 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:14 --> Global POST and COOKIE data sanitized
+ERROR - 2015-02-05 15:07:14 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:14 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:14 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:14 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:14 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:14 --> Total execution time: 0.0140
+DEBUG - 2015-02-05 15:07:14 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:14 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:14 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:14 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:14 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:14 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:14 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:14 --> Total execution time: 0.0178
+DEBUG - 2015-02-05 15:07:16 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:16 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:16 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:16 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:16 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:16 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:16 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:16 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:16 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:16 --> Total execution time: 0.0153
+DEBUG - 2015-02-05 15:07:21 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:21 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:21 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:21 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:21 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:22 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:22 --> Language Class Initialized
+ERROR - 2015-02-05 15:07:22 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:22 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:22 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:22 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:22 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:22 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:22 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:22 --> Total execution time: 0.0180
+DEBUG - 2015-02-05 15:07:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:22 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:22 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:22 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:22 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:22 --> Total execution time: 0.0161
+DEBUG - 2015-02-05 15:07:25 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:25 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:25 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:25 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:25 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:25 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:25 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:25 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:25 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:25 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:25 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Total execution time: 0.0164
+ERROR - 2015-02-05 15:07:25 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:25 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:25 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:25 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:25 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:25 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:25 --> Total execution time: 0.0179
+DEBUG - 2015-02-05 15:07:27 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:27 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:27 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:27 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:27 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:27 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:27 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Model Class Initialized
+ERROR - 2015-02-05 15:07:27 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:27 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:27 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:27 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:27 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:27 --> Total execution time: 0.0148
+DEBUG - 2015-02-05 15:07:27 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:27 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:27 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:27 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:27 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:07:29 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:29 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:29 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:29 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:29 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:29 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:29 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:29 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:29 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:29 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:29 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:29 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:29 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:29 --> Total execution time: 0.0150
+DEBUG - 2015-02-05 15:07:29 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:29 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:29 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:29 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:29 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 15:07:31 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:31 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:31 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:31 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:31 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:31 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:31 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:31 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:31 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:31 --> Total execution time: 0.0157
+DEBUG - 2015-02-05 15:07:36 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:36 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:36 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:36 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:36 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:36 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:36 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:36 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:36 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:36 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 15:07:41 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:41 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:41 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:41 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:41 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:41 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:07:41 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:41 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:41 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:41 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:41 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:41 --> Total execution time: 0.0132
+DEBUG - 2015-02-05 15:07:42 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:42 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:42 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:42 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:42 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:42 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Helper loaded: string_helper
+ERROR - 2015-02-05 15:07:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:42 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:42 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:42 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:42 --> Total execution time: 0.0124
+DEBUG - 2015-02-05 15:07:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:42 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:42 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:42 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:42 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:42 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 15:07:48 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:48 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Config Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:07:48 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> URI Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Router Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Output Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:48 --> Security Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Input Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:07:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:07:48 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Language Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:07:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:48 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Model Class Initialized
+ERROR - 2015-02-05 15:07:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:07:48 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:48 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Total execution time: 0.0128
+DEBUG - 2015-02-05 15:07:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Session Class Initialized
+DEBUG - 2015-02-05 15:07:48 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:07:48 --> Session routines successfully run
+DEBUG - 2015-02-05 15:07:48 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:07:48 --> Final output sent to browser
+DEBUG - 2015-02-05 15:07:48 --> Total execution time: 0.0147
+DEBUG - 2015-02-05 15:09:17 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:17 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:17 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:09:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:17 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:09:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:17 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:09:17 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:17 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Model Class Initialized
+ERROR - 2015-02-05 15:09:17 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:17 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:17 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 15:09:17 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:17 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:17 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:17 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:17 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:17 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 15:09:32 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:32 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:09:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:32 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:09:32 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:32 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:32 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:32 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:32 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:32 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:09:32 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:32 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:09:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:32 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:09:32 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:32 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:32 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:32 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:32 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:32 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:32 --> Total execution time: 0.0121
+DEBUG - 2015-02-05 15:09:33 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:33 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:09:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:33 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:09:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:33 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:33 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:33 --> Total execution time: 0.0123
+DEBUG - 2015-02-05 15:09:33 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:33 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:33 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:09:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:33 --> A session cookie was not found.
+DEBUG - 2015-02-05 15:09:33 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:33 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:33 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:09:37 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:37 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:37 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:09:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:37 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:09:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:37 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:09:37 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:37 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:09:37 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:37 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:37 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:37 --> Total execution time: 0.0122
+DEBUG - 2015-02-05 15:09:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:37 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:37 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:37 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:37 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:37 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:09:56 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:56 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Config Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:09:56 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> URI Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Router Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:09:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:56 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Output Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Security Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Input Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:09:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:09:56 --> Language Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:09:56 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:56 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:56 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:56 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:56 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:56 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 15:09:56 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:09:56 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:09:56 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Model Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Session Class Initialized
+DEBUG - 2015-02-05 15:09:56 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:09:56 --> Session routines successfully run
+DEBUG - 2015-02-05 15:09:56 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:09:56 --> Final output sent to browser
+DEBUG - 2015-02-05 15:09:56 --> Total execution time: 0.0175
+DEBUG - 2015-02-05 15:10:09 --> Config Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:10:09 --> URI Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Router Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Config Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:10:09 --> Output Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> URI Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Security Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Router Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Input Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:10:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:10:09 --> Output Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Language Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Security Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Input Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:10:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:10:09 --> Language Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:10:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:10:09 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Session Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Helper loaded: string_helper
+ERROR - 2015-02-05 15:10:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:10:09 --> Session routines successfully run
+DEBUG - 2015-02-05 15:10:09 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:10:09 --> Final output sent to browser
+DEBUG - 2015-02-05 15:10:09 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 15:10:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Session Class Initialized
+DEBUG - 2015-02-05 15:10:09 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:10:09 --> Session routines successfully run
+DEBUG - 2015-02-05 15:10:09 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:10:09 --> Final output sent to browser
+DEBUG - 2015-02-05 15:10:09 --> Total execution time: 0.0148
+DEBUG - 2015-02-05 15:10:19 --> Config Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:10:19 --> URI Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Router Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Config Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Output Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:10:19 --> Security Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> URI Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Input Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Router Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:10:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:10:19 --> Language Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Output Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Security Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Input Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:10:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:10:19 --> Language Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:10:19 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:10:19 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Session Class Initialized
+ERROR - 2015-02-05 15:10:19 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:10:19 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:10:19 --> Session routines successfully run
+DEBUG - 2015-02-05 15:10:19 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:10:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Final output sent to browser
+DEBUG - 2015-02-05 15:10:19 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 15:10:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Session Class Initialized
+DEBUG - 2015-02-05 15:10:19 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:10:19 --> Session routines successfully run
+DEBUG - 2015-02-05 15:10:19 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:10:19 --> Final output sent to browser
+DEBUG - 2015-02-05 15:10:19 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 15:10:21 --> Config Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:10:21 --> URI Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Router Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Output Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Security Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Input Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:10:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:10:21 --> Language Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:10:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:10:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Session Class Initialized
+DEBUG - 2015-02-05 15:10:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:10:21 --> Session routines successfully run
+DEBUG - 2015-02-05 15:10:21 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:10:21 --> Final output sent to browser
+DEBUG - 2015-02-05 15:10:21 --> Total execution time: 0.0160
+DEBUG - 2015-02-05 15:12:18 --> Config Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:12:18 --> URI Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Router Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Output Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Security Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Input Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:12:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:12:18 --> Language Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:12:18 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:12:18 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Session Class Initialized
+DEBUG - 2015-02-05 15:12:18 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:12:18 --> Session routines successfully run
+DEBUG - 2015-02-05 15:12:18 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:12:18 --> Final output sent to browser
+DEBUG - 2015-02-05 15:12:18 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:12:19 --> Config Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:12:19 --> URI Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Router Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Output Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Security Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Input Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:12:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:12:19 --> Language Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:12:19 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:12:19 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Session Class Initialized
+DEBUG - 2015-02-05 15:12:19 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:12:19 --> Session routines successfully run
+DEBUG - 2015-02-05 15:12:19 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:12:19 --> Final output sent to browser
+DEBUG - 2015-02-05 15:12:19 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:12:23 --> Config Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:12:23 --> URI Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Router Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Config Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Output Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:12:23 --> URI Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Security Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Router Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Input Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:12:23 --> Output Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:12:23 --> Language Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Security Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Input Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:12:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:12:23 --> Language Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:12:23 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+ERROR - 2015-02-05 15:12:23 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:12:23 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Session Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:12:23 --> Session Class Initialized
+DEBUG - 2015-02-05 15:12:23 --> Session routines successfully run
+DEBUG - 2015-02-05 15:12:23 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:12:23 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:12:23 --> Final output sent to browser
+DEBUG - 2015-02-05 15:12:23 --> Session routines successfully run
+DEBUG - 2015-02-05 15:12:23 --> Total execution time: 0.0172
+DEBUG - 2015-02-05 15:12:23 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:12:23 --> Final output sent to browser
+DEBUG - 2015-02-05 15:12:23 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 15:12:25 --> Config Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:12:25 --> URI Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Router Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Output Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Config Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Security Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Input Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:12:25 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:12:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:12:25 --> URI Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Language Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Router Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Output Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Security Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Input Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:12:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:12:25 --> Language Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:12:25 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:12:25 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Session Class Initialized
+ERROR - 2015-02-05 15:12:25 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:12:25 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:12:25 --> Session routines successfully run
+DEBUG - 2015-02-05 15:12:25 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:12:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Final output sent to browser
+DEBUG - 2015-02-05 15:12:25 --> Total execution time: 0.0231
+DEBUG - 2015-02-05 15:12:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Session Class Initialized
+DEBUG - 2015-02-05 15:12:25 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:12:25 --> Session routines successfully run
+DEBUG - 2015-02-05 15:12:25 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:12:25 --> Final output sent to browser
+DEBUG - 2015-02-05 15:12:25 --> Total execution time: 0.0226
+DEBUG - 2015-02-05 15:12:27 --> Config Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:12:27 --> URI Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Router Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Output Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Security Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Input Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:12:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:12:27 --> Language Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:12:27 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:12:27 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Model Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Session Class Initialized
+DEBUG - 2015-02-05 15:12:27 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:12:27 --> Session routines successfully run
+DEBUG - 2015-02-05 15:12:27 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:12:27 --> Final output sent to browser
+DEBUG - 2015-02-05 15:12:27 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:14:00 --> Config Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:14:00 --> URI Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Config Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Router Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:14:00 --> Output Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> URI Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Router Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Security Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Output Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Input Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:14:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:14:00 --> Security Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Language Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Input Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:14:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:14:00 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Language Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:14:00 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:14:00 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Model Class Initialized
+ERROR - 2015-02-05 15:14:00 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:14:00 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Session Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:14:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Session routines successfully run
+DEBUG - 2015-02-05 15:14:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:14:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Final output sent to browser
+DEBUG - 2015-02-05 15:14:00 --> Total execution time: 0.0121
+DEBUG - 2015-02-05 15:14:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Session Class Initialized
+DEBUG - 2015-02-05 15:14:00 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:14:00 --> Session routines successfully run
+DEBUG - 2015-02-05 15:14:00 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:14:00 --> Final output sent to browser
+DEBUG - 2015-02-05 15:14:00 --> Total execution time: 0.0123
+DEBUG - 2015-02-05 15:14:33 --> Config Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:14:33 --> URI Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Router Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Output Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Security Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Input Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:14:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:14:33 --> Language Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Config Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:14:33 --> URI Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Router Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Output Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Security Class Initialized
+ERROR - 2015-02-05 15:14:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:14:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Input Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:14:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:14:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Language Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Session Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:14:33 --> Session routines successfully run
+DEBUG - 2015-02-05 15:14:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:14:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Final output sent to browser
+DEBUG - 2015-02-05 15:14:33 --> Total execution time: 0.0153
+DEBUG - 2015-02-05 15:14:33 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:14:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:14:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Session Class Initialized
+DEBUG - 2015-02-05 15:14:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:14:33 --> Session routines successfully run
+DEBUG - 2015-02-05 15:14:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:14:33 --> Final output sent to browser
+DEBUG - 2015-02-05 15:14:33 --> Total execution time: 0.0158
+DEBUG - 2015-02-05 15:14:44 --> Config Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:14:44 --> URI Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Router Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Config Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:14:44 --> Output Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> URI Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Security Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Router Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Input Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:14:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:14:44 --> Output Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Language Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Security Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Input Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:14:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:14:44 --> Language Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:14:44 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:14:44 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:14:44 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:14:44 --> Session Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:14:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Session routines successfully run
+DEBUG - 2015-02-05 15:14:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:14:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Final output sent to browser
+DEBUG - 2015-02-05 15:14:44 --> Total execution time: 0.0127
+DEBUG - 2015-02-05 15:14:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Session Class Initialized
+DEBUG - 2015-02-05 15:14:44 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:14:44 --> Session routines successfully run
+DEBUG - 2015-02-05 15:14:44 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:14:44 --> Final output sent to browser
+DEBUG - 2015-02-05 15:14:44 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 15:14:47 --> Config Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:14:47 --> URI Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Router Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Output Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Security Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Input Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:14:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:14:47 --> Language Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:14:47 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:14:47 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Model Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Session Class Initialized
+DEBUG - 2015-02-05 15:14:47 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:14:47 --> Session routines successfully run
+DEBUG - 2015-02-05 15:14:47 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:14:47 --> Final output sent to browser
+DEBUG - 2015-02-05 15:14:47 --> Total execution time: 0.0154
+DEBUG - 2015-02-05 15:20:01 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:01 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:01 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:01 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:01 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:01 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:01 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:01 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:01 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:01 --> Total execution time: 0.0119
+DEBUG - 2015-02-05 15:20:02 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:02 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:02 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:02 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:02 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:02 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:02 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:02 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:02 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:02 --> Total execution time: 0.0151
+DEBUG - 2015-02-05 15:20:04 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:04 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:04 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:04 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:04 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:04 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:04 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:04 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:04 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:04 --> Total execution time: 0.0118
+DEBUG - 2015-02-05 15:20:09 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:09 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:09 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:09 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:09 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:09 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:09 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:09 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:09 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:09 --> Total execution time: 0.0177
+DEBUG - 2015-02-05 15:20:09 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:09 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:09 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:09 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:09 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:09 --> Total execution time: 0.0162
+DEBUG - 2015-02-05 15:20:10 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:10 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:10 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:10 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:10 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:10 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:10 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:10 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Model Class Initialized
+ERROR - 2015-02-05 15:20:10 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:10 --> Total execution time: 0.0158
+DEBUG - 2015-02-05 15:20:10 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:10 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:10 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:10 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:10 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:10 --> Total execution time: 0.0154
+DEBUG - 2015-02-05 15:20:11 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:11 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:11 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:11 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:11 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:11 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Loader Class Initialized
+ERROR - 2015-02-05 15:20:11 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:11 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:11 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:11 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:11 --> Final output sent to browser
+ERROR - 2015-02-05 15:20:11 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:11 --> Total execution time: 0.0158
+DEBUG - 2015-02-05 15:20:11 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:11 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:11 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:11 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:11 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:11 --> Total execution time: 0.0169
+DEBUG - 2015-02-05 15:20:13 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:13 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:13 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:13 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:13 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:13 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:13 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:13 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:13 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:13 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:13 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:13 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:13 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:13 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:13 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:13 --> Total execution time: 0.0164
+DEBUG - 2015-02-05 15:20:13 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:13 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:13 --> Total execution time: 0.0147
+DEBUG - 2015-02-05 15:20:15 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:15 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:15 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:15 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:15 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:15 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:15 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:15 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Session Class Initialized
+ERROR - 2015-02-05 15:20:15 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:15 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:15 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:15 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 15:20:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:15 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:15 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:15 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:15 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:15 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 15:20:16 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:16 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:16 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:16 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:16 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:16 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:16 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:16 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:16 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:16 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:16 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:16 --> Total execution time: 0.0148
+DEBUG - 2015-02-05 15:20:16 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:16 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:16 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:16 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:16 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:16 --> Total execution time: 0.0149
+DEBUG - 2015-02-05 15:20:18 --> Config Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:20:18 --> URI Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Router Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Output Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Security Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Input Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:20:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:20:18 --> Language Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:20:18 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:20:18 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Session Class Initialized
+DEBUG - 2015-02-05 15:20:18 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:20:18 --> Session routines successfully run
+DEBUG - 2015-02-05 15:20:18 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:20:18 --> Final output sent to browser
+DEBUG - 2015-02-05 15:20:18 --> Total execution time: 0.0152
+DEBUG - 2015-02-05 15:23:08 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:08 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:08 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:08 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:08 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:08 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:08 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:08 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:08 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:08 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:23:09 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:09 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:09 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:09 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:09 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:09 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:09 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:09 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:09 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 15:23:10 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:10 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:10 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:10 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:10 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:10 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:10 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:10 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:10 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:10 --> Total execution time: 0.0128
+DEBUG - 2015-02-05 15:23:14 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:14 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:14 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:14 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:14 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:14 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:14 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:14 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:14 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:14 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:14 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:14 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:14 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:14 --> Total execution time: 0.0174
+DEBUG - 2015-02-05 15:23:14 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:14 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:14 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:14 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:14 --> Total execution time: 0.0157
+DEBUG - 2015-02-05 15:23:16 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:16 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:16 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:16 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:16 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:16 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:16 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:16 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:16 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:16 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:16 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:16 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:16 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:16 --> Total execution time: 0.0168
+DEBUG - 2015-02-05 15:23:16 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:16 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:16 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:16 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:16 --> Total execution time: 0.0158
+DEBUG - 2015-02-05 15:23:17 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:17 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:17 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:17 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:17 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Loader Class Initialized
+ERROR - 2015-02-05 15:23:17 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:17 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:17 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:17 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:17 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:17 --> Total execution time: 0.0140
+ERROR - 2015-02-05 15:23:17 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:17 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:17 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:17 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:17 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:17 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:17 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:23:19 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:19 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:19 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:19 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:19 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:19 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:19 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+ERROR - 2015-02-05 15:23:19 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:19 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:19 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:19 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:19 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:19 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:19 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:23:19 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:19 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:19 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:19 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:19 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:19 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:19 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:19 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:19 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:19 --> Total execution time: 0.0163
+DEBUG - 2015-02-05 15:23:21 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:21 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:21 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:21 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:21 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:21 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:21 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 15:23:42 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:42 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:42 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:42 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:42 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:42 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:42 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:42 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:42 --> Total execution time: 0.0133
+DEBUG - 2015-02-05 15:23:49 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:49 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:49 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:49 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:49 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:49 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:49 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:49 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:49 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:49 --> Total execution time: 0.0168
+DEBUG - 2015-02-05 15:23:58 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:58 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Config Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:23:58 --> URI Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Router Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:58 --> Output Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:58 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Security Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Input Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:23:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:23:58 --> Language Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:58 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:23:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:23:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:58 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:58 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:58 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 15:23:58 --> Session Class Initialized
+DEBUG - 2015-02-05 15:23:58 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:23:58 --> Session routines successfully run
+DEBUG - 2015-02-05 15:23:58 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:23:58 --> Final output sent to browser
+DEBUG - 2015-02-05 15:23:58 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 15:24:08 --> Config Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:24:08 --> URI Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Router Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Output Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Security Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Input Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:24:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:24:08 --> Language Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:24:08 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:24:08 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Session Class Initialized
+DEBUG - 2015-02-05 15:24:08 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:24:08 --> Session routines successfully run
+DEBUG - 2015-02-05 15:24:08 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:24:08 --> Final output sent to browser
+DEBUG - 2015-02-05 15:24:08 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 15:24:50 --> Config Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:24:50 --> URI Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Router Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Config Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:24:50 --> Output Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> URI Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Security Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Router Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Input Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Output Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:24:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:24:50 --> Language Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Security Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Input Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:24:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:24:50 --> Language Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:24:50 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:24:50 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:24:50 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:24:50 --> Session Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:24:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Session routines successfully run
+DEBUG - 2015-02-05 15:24:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:24:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Final output sent to browser
+DEBUG - 2015-02-05 15:24:50 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:24:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Session Class Initialized
+DEBUG - 2015-02-05 15:24:50 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:24:50 --> Session routines successfully run
+DEBUG - 2015-02-05 15:24:50 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:24:50 --> Final output sent to browser
+DEBUG - 2015-02-05 15:24:50 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 15:24:57 --> Config Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:24:57 --> URI Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Router Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Output Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Security Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Input Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:24:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:24:57 --> Language Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:24:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:24:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Session Class Initialized
+DEBUG - 2015-02-05 15:24:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:24:57 --> Session routines successfully run
+DEBUG - 2015-02-05 15:24:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:24:57 --> Final output sent to browser
+DEBUG - 2015-02-05 15:24:57 --> Total execution time: 0.0151
+DEBUG - 2015-02-05 15:28:07 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:07 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:07 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:07 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:07 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:07 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:07 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:07 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:07 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:07 --> Total execution time: 0.0120
+DEBUG - 2015-02-05 15:28:13 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:13 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:13 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:13 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:13 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Language Class Initialized
+ERROR - 2015-02-05 15:28:13 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:13 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:13 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:13 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:13 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:13 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:28:13 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:13 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:13 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:13 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:13 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:13 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:13 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:13 --> Total execution time: 0.0160
+DEBUG - 2015-02-05 15:28:16 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:16 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:16 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:16 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:16 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:16 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:16 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:16 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:16 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:16 --> Total execution time: 0.0164
+DEBUG - 2015-02-05 15:28:20 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:20 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:20 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:20 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Security Class Initialized
+ERROR - 2015-02-05 15:28:20 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:20 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:20 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:20 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:20 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:20 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:28:20 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:20 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:20 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:20 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:20 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:20 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:20 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:20 --> Total execution time: 0.0168
+DEBUG - 2015-02-05 15:28:46 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:46 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:46 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:46 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:46 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:46 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:46 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:46 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:46 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:46 --> Total execution time: 0.0150
+DEBUG - 2015-02-05 15:28:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:46 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:46 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:46 --> Total execution time: 0.0180
+DEBUG - 2015-02-05 15:28:48 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:48 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:48 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:48 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:48 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:48 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:48 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:48 --> Session routines successfully run
+ERROR - 2015-02-05 15:28:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:48 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:48 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:48 --> Total execution time: 0.0160
+DEBUG - 2015-02-05 15:28:48 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:48 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:48 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:48 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:48 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:48 --> Total execution time: 0.0178
+DEBUG - 2015-02-05 15:28:49 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:49 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:49 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:49 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:49 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:49 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:49 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:49 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:49 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:49 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Total execution time: 0.0140
+DEBUG - 2015-02-05 15:28:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:49 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:49 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:49 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:49 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:49 --> Total execution time: 0.0150
+DEBUG - 2015-02-05 15:28:50 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:50 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:50 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:50 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:50 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:50 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:50 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:50 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:50 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:50 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 15:28:57 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:57 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Config Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:28:57 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> URI Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Router Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Output Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:57 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Security Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Input Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:28:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:28:57 --> Language Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:28:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:28:57 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:57 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:57 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:57 --> Total execution time: 0.0120
+DEBUG - 2015-02-05 15:28:57 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Model Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Session Class Initialized
+DEBUG - 2015-02-05 15:28:57 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:28:57 --> Session routines successfully run
+DEBUG - 2015-02-05 15:28:57 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:28:57 --> Final output sent to browser
+DEBUG - 2015-02-05 15:28:57 --> Total execution time: 0.0148
+DEBUG - 2015-02-05 15:29:44 --> Config Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:29:44 --> URI Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Router Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Config Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:29:44 --> Output Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> URI Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Security Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Router Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Input Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Output Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:29:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:29:44 --> Language Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Security Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Input Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:29:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:29:44 --> Language Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:29:44 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:29:44 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:29:44 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:29:44 --> Session Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:29:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Session routines successfully run
+DEBUG - 2015-02-05 15:29:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:29:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Final output sent to browser
+DEBUG - 2015-02-05 15:29:44 --> Total execution time: 0.0163
+DEBUG - 2015-02-05 15:29:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Session Class Initialized
+DEBUG - 2015-02-05 15:29:44 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:29:44 --> Session routines successfully run
+DEBUG - 2015-02-05 15:29:44 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:29:44 --> Final output sent to browser
+DEBUG - 2015-02-05 15:29:44 --> Total execution time: 0.0160
+DEBUG - 2015-02-05 15:29:46 --> Config Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:29:46 --> URI Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Router Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Config Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:29:46 --> Output Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> URI Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Security Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Router Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Input Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:29:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:29:46 --> Output Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Language Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Security Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Input Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:29:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:29:46 --> Language Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:29:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:29:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Model Class Initialized
+ERROR - 2015-02-05 15:29:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:29:46 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Session Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:29:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Session routines successfully run
+DEBUG - 2015-02-05 15:29:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:29:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Final output sent to browser
+DEBUG - 2015-02-05 15:29:46 --> Total execution time: 0.0164
+DEBUG - 2015-02-05 15:29:46 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Session Class Initialized
+DEBUG - 2015-02-05 15:29:46 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:29:46 --> Session routines successfully run
+DEBUG - 2015-02-05 15:29:46 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:29:46 --> Final output sent to browser
+DEBUG - 2015-02-05 15:29:46 --> Total execution time: 0.0170
+DEBUG - 2015-02-05 15:29:48 --> Config Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:29:48 --> URI Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Config Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Router Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:29:48 --> URI Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Output Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Router Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Security Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Output Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Input Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:29:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:29:48 --> Security Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Language Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Input Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:29:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:29:48 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Language Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:29:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:29:48 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:29:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:29:48 --> Session Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:29:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Session routines successfully run
+DEBUG - 2015-02-05 15:29:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:29:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Final output sent to browser
+DEBUG - 2015-02-05 15:29:48 --> Total execution time: 0.0125
+DEBUG - 2015-02-05 15:29:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Session Class Initialized
+DEBUG - 2015-02-05 15:29:48 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:29:48 --> Session routines successfully run
+DEBUG - 2015-02-05 15:29:48 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:29:48 --> Final output sent to browser
+DEBUG - 2015-02-05 15:29:48 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 15:29:49 --> Config Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:29:49 --> URI Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Router Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Output Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Security Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Input Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:29:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:29:49 --> Language Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:29:49 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:29:49 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Session Class Initialized
+DEBUG - 2015-02-05 15:29:49 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:29:49 --> Session routines successfully run
+DEBUG - 2015-02-05 15:29:49 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:29:49 --> Final output sent to browser
+DEBUG - 2015-02-05 15:29:49 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:29:54 --> Config Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:29:54 --> URI Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Router Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Config Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:29:54 --> Output Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> URI Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Security Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Router Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Input Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:29:54 --> Output Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:29:54 --> Language Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Security Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Input Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:29:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:29:54 --> Language Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:29:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:29:54 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:29:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:29:54 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Session Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Model Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:29:54 --> Session routines successfully run
+DEBUG - 2015-02-05 15:29:54 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:29:54 --> Session Class Initialized
+DEBUG - 2015-02-05 15:29:54 --> Final output sent to browser
+DEBUG - 2015-02-05 15:29:54 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 15:29:54 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:29:54 --> Session routines successfully run
+DEBUG - 2015-02-05 15:29:54 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:29:54 --> Final output sent to browser
+DEBUG - 2015-02-05 15:29:54 --> Total execution time: 0.0132
+DEBUG - 2015-02-05 15:30:04 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:04 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:04 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:04 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:04 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:04 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:04 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:04 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:04 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:04 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 15:30:07 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:07 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:07 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:07 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:07 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:07 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:07 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:07 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:07 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:07 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 15:30:11 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:11 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:11 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:11 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:11 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:11 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:11 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:11 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:11 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:11 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:11 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:11 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:11 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:11 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:11 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 15:30:11 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:11 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:11 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:11 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:30:13 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:13 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:13 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:13 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:13 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:13 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:13 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:13 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:13 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:13 --> Total execution time: 0.0152
+DEBUG - 2015-02-05 15:30:18 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:18 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:18 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:18 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:18 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:18 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:18 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:18 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:18 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:18 --> Total execution time: 0.0125
+DEBUG - 2015-02-05 15:30:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:18 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:18 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:18 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:18 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:18 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 15:30:29 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:29 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:29 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:29 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:29 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:29 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:29 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:29 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Session routines successfully run
+ERROR - 2015-02-05 15:30:29 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:29 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:29 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:29 --> Total execution time: 0.0133
+DEBUG - 2015-02-05 15:30:29 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:29 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:29 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:29 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:29 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:29 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:30:31 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:31 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:31 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:31 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:31 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:31 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:31 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:31 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:31 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:31 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:31 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Total execution time: 0.0140
+DEBUG - 2015-02-05 15:30:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:31 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:31 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:31 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:31 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:31 --> Total execution time: 0.0140
+DEBUG - 2015-02-05 15:30:32 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:32 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:32 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:32 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:32 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:32 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+ERROR - 2015-02-05 15:30:32 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:32 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:32 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:32 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:32 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:32 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:32 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:32 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:32 --> Total execution time: 0.0147
+DEBUG - 2015-02-05 15:30:32 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:32 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:32 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 15:30:33 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:33 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:33 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:33 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:33 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:33 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:33 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:33 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:33 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 15:30:33 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:33 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:33 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:33 --> Total execution time: 0.0162
+DEBUG - 2015-02-05 15:30:34 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:34 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:34 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:34 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:34 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:34 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:34 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Model Class Initialized
+ERROR - 2015-02-05 15:30:34 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:34 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:34 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:34 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 15:30:34 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:34 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:34 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:34 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:34 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:34 --> Total execution time: 0.0145
+DEBUG - 2015-02-05 15:30:35 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:35 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:35 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:35 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:35 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:35 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:35 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Model Class Initialized
+ERROR - 2015-02-05 15:30:35 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:35 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:35 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 15:30:35 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:35 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:35 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:35 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:35 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:35 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:30:36 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:36 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:36 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:36 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:36 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:36 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:36 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Controller Class Initialized
+ERROR - 2015-02-05 15:30:36 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:36 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:36 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:36 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:36 --> Total execution time: 0.0138
+DEBUG - 2015-02-05 15:30:36 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:36 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:36 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:36 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:36 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:36 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 15:30:37 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:37 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:37 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:37 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:37 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:37 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:37 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Session Class Initialized
+ERROR - 2015-02-05 15:30:37 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:37 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:37 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:37 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:37 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 15:30:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:37 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:37 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:37 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:37 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:37 --> Total execution time: 0.0158
+DEBUG - 2015-02-05 15:30:38 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:38 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:38 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:38 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:38 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:38 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:38 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Controller Class Initialized
+ERROR - 2015-02-05 15:30:38 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:38 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:38 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:38 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:38 --> Total execution time: 0.0142
+DEBUG - 2015-02-05 15:30:38 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:38 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:38 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:38 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:38 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:38 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 15:30:39 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:39 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:39 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:39 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:39 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:39 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:39 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Session Class Initialized
+ERROR - 2015-02-05 15:30:39 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:39 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:39 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:39 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:39 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:39 --> Total execution time: 0.0144
+DEBUG - 2015-02-05 15:30:39 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:39 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:39 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:39 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:39 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:39 --> Total execution time: 0.0166
+DEBUG - 2015-02-05 15:30:40 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:40 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:40 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:40 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:40 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:40 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:40 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Controller Class Initialized
+ERROR - 2015-02-05 15:30:40 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:40 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:40 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:40 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:40 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:40 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:30:40 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:40 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:40 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:40 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:40 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:40 --> Total execution time: 0.0133
+DEBUG - 2015-02-05 15:30:41 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:41 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:41 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:41 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:41 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Session Class Initialized
+ERROR - 2015-02-05 15:30:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:41 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:41 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:41 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 15:30:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:41 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:41 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:41 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:41 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:41 --> Total execution time: 0.0155
+DEBUG - 2015-02-05 15:30:42 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:42 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:42 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:42 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:42 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:42 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:42 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:42 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Database Driver Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Model Class Initialized
+ERROR - 2015-02-05 15:30:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:42 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:42 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:42 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:42 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:42 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 15:30:42 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:42 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:42 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:42 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:42 --> Total execution time: 0.0157
+DEBUG - 2015-02-05 15:30:43 --> Config Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:30:43 --> URI Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Router Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Output Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Security Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Input Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:30:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:30:43 --> Language Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:30:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:30:43 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Model Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Session Class Initialized
+DEBUG - 2015-02-05 15:30:43 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:30:43 --> Session routines successfully run
+DEBUG - 2015-02-05 15:30:43 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:30:43 --> Final output sent to browser
+DEBUG - 2015-02-05 15:30:43 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:31:15 --> Config Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:31:15 --> URI Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Router Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Output Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Security Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Input Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:31:15 --> Language Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:31:15 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:31:15 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Session Class Initialized
+DEBUG - 2015-02-05 15:31:15 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:31:15 --> A session cookie was not found.
+DEBUG - 2015-02-05 15:31:15 --> Session routines successfully run
+DEBUG - 2015-02-05 15:31:15 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:31:15 --> Final output sent to browser
+DEBUG - 2015-02-05 15:31:15 --> Total execution time: 0.0124
+DEBUG - 2015-02-05 15:31:17 --> Config Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:31:17 --> URI Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Router Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Output Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Security Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Input Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:31:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:31:17 --> Language Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:31:17 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:31:17 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Model Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Session Class Initialized
+DEBUG - 2015-02-05 15:31:17 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:31:17 --> Session routines successfully run
+DEBUG - 2015-02-05 15:31:17 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:31:17 --> Final output sent to browser
+DEBUG - 2015-02-05 15:31:17 --> Total execution time: 0.0125
+DEBUG - 2015-02-05 15:36:58 --> Config Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:36:58 --> URI Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Router Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Output Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Security Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Input Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:36:58 --> Language Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:36:58 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:36:58 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Model Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Session Class Initialized
+DEBUG - 2015-02-05 15:36:58 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:36:58 --> A session cookie was not found.
+DEBUG - 2015-02-05 15:36:58 --> Session routines successfully run
+DEBUG - 2015-02-05 15:36:58 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:36:58 --> Final output sent to browser
+DEBUG - 2015-02-05 15:36:58 --> Total execution time: 0.0128
+DEBUG - 2015-02-05 15:37:00 --> Config Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:37:00 --> URI Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Router Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Output Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Security Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Input Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:37:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:37:00 --> Language Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:37:00 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:37:00 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Session Class Initialized
+DEBUG - 2015-02-05 15:37:00 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:37:00 --> Session routines successfully run
+DEBUG - 2015-02-05 15:37:00 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:37:00 --> Final output sent to browser
+DEBUG - 2015-02-05 15:37:00 --> Total execution time: 0.0147
+DEBUG - 2015-02-05 15:37:05 --> Config Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:37:05 --> URI Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Router Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Output Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Security Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Input Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:37:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:37:05 --> Language Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:37:05 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:37:05 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Session Class Initialized
+DEBUG - 2015-02-05 15:37:05 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:37:05 --> Session routines successfully run
+DEBUG - 2015-02-05 15:37:05 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:37:05 --> Final output sent to browser
+DEBUG - 2015-02-05 15:37:05 --> Total execution time: 0.0135
+DEBUG - 2015-02-05 15:37:15 --> Config Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:37:15 --> URI Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Router Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Output Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Security Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Input Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:37:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:37:15 --> Language Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:37:15 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:37:15 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Session Class Initialized
+DEBUG - 2015-02-05 15:37:15 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:37:15 --> Session routines successfully run
+DEBUG - 2015-02-05 15:37:15 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:37:15 --> Final output sent to browser
+DEBUG - 2015-02-05 15:37:15 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 15:37:24 --> Config Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:37:24 --> URI Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Router Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Output Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Security Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Input Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:37:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:37:24 --> Language Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:37:24 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:37:24 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Session Class Initialized
+DEBUG - 2015-02-05 15:37:24 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:37:24 --> Session routines successfully run
+DEBUG - 2015-02-05 15:37:24 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:37:24 --> Final output sent to browser
+DEBUG - 2015-02-05 15:37:24 --> Total execution time: 0.0145
+DEBUG - 2015-02-05 15:37:26 --> Config Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:37:26 --> URI Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Router Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Output Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Security Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Input Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:37:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:37:26 --> Language Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:37:26 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:37:26 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Session Class Initialized
+DEBUG - 2015-02-05 15:37:26 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:37:26 --> Session routines successfully run
+DEBUG - 2015-02-05 15:37:26 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:37:26 --> Final output sent to browser
+DEBUG - 2015-02-05 15:37:26 --> Total execution time: 0.0161
+DEBUG - 2015-02-05 15:43:25 --> Config Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:43:25 --> URI Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Router Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Output Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Security Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Input Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:43:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:43:25 --> Language Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:43:25 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:43:25 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Session Class Initialized
+DEBUG - 2015-02-05 15:43:25 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:43:25 --> Session routines successfully run
+DEBUG - 2015-02-05 15:43:25 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:43:25 --> Final output sent to browser
+DEBUG - 2015-02-05 15:43:25 --> Total execution time: 0.0132
+DEBUG - 2015-02-05 15:43:26 --> Config Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:43:26 --> URI Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Router Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Output Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Security Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Input Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:43:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:43:26 --> Language Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:43:26 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:43:26 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Session Class Initialized
+DEBUG - 2015-02-05 15:43:26 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:43:26 --> Session routines successfully run
+DEBUG - 2015-02-05 15:43:26 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:43:26 --> Final output sent to browser
+DEBUG - 2015-02-05 15:43:26 --> Total execution time: 0.0140
+DEBUG - 2015-02-05 15:43:32 --> Config Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:43:32 --> URI Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Router Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Output Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Security Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Input Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:43:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:43:32 --> Language Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:43:32 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:43:32 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Session Class Initialized
+DEBUG - 2015-02-05 15:43:32 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:43:32 --> Session routines successfully run
+DEBUG - 2015-02-05 15:43:32 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:43:32 --> Final output sent to browser
+DEBUG - 2015-02-05 15:43:32 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:43:33 --> Config Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:43:33 --> URI Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Router Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Output Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Security Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Input Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:43:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:43:33 --> Language Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:43:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:43:33 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Session Class Initialized
+DEBUG - 2015-02-05 15:43:33 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:43:33 --> Session routines successfully run
+DEBUG - 2015-02-05 15:43:33 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:43:33 --> Final output sent to browser
+DEBUG - 2015-02-05 15:43:33 --> Total execution time: 0.0146
+DEBUG - 2015-02-05 15:43:38 --> Config Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:43:38 --> URI Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Router Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Output Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Security Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Input Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:43:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:43:38 --> Language Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:43:38 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:43:38 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Session Class Initialized
+DEBUG - 2015-02-05 15:43:38 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:43:38 --> Session routines successfully run
+DEBUG - 2015-02-05 15:43:38 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:43:38 --> Final output sent to browser
+DEBUG - 2015-02-05 15:43:38 --> Total execution time: 0.0145
+DEBUG - 2015-02-05 15:43:39 --> Config Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:43:39 --> URI Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Router Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Output Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Security Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Input Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:43:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:43:39 --> Language Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:43:39 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:43:39 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Model Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Session Class Initialized
+DEBUG - 2015-02-05 15:43:39 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:43:39 --> Session routines successfully run
+DEBUG - 2015-02-05 15:43:39 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:43:39 --> Final output sent to browser
+DEBUG - 2015-02-05 15:43:39 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:46:07 --> Config Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:46:07 --> URI Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Router Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Output Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Security Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Input Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:46:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:46:07 --> Language Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:46:07 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:46:07 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Model Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Session Class Initialized
+DEBUG - 2015-02-05 15:46:07 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:46:07 --> Session routines successfully run
+DEBUG - 2015-02-05 15:46:07 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:46:07 --> Final output sent to browser
+DEBUG - 2015-02-05 15:46:07 --> Total execution time: 0.0128
+DEBUG - 2015-02-05 15:46:09 --> Config Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:46:09 --> URI Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Router Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Output Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Security Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Input Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:46:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:46:09 --> Language Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:46:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:46:09 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Model Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Session Class Initialized
+DEBUG - 2015-02-05 15:46:09 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:46:09 --> Session routines successfully run
+DEBUG - 2015-02-05 15:46:09 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:46:09 --> Final output sent to browser
+DEBUG - 2015-02-05 15:46:09 --> Total execution time: 0.0143
+DEBUG - 2015-02-05 15:47:26 --> Config Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:47:26 --> URI Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Router Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Output Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Security Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Input Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:47:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:47:26 --> Language Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:47:26 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:47:26 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Model Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Session Class Initialized
+DEBUG - 2015-02-05 15:47:26 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:47:26 --> Session routines successfully run
+DEBUG - 2015-02-05 15:47:26 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:47:26 --> Final output sent to browser
+DEBUG - 2015-02-05 15:47:26 --> Total execution time: 0.0136
+DEBUG - 2015-02-05 15:47:31 --> Config Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:47:31 --> URI Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Router Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Output Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Security Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Input Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:47:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:47:31 --> Language Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:47:31 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:47:31 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Model Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Session Class Initialized
+DEBUG - 2015-02-05 15:47:31 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:47:31 --> Session routines successfully run
+DEBUG - 2015-02-05 15:47:31 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:47:31 --> Final output sent to browser
+DEBUG - 2015-02-05 15:47:31 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 15:47:34 --> Config Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:47:34 --> URI Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Router Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Output Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Security Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Input Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:47:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:47:34 --> Language Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:47:34 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:47:34 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Model Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Session Class Initialized
+DEBUG - 2015-02-05 15:47:34 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:47:34 --> Session routines successfully run
+DEBUG - 2015-02-05 15:47:34 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:47:34 --> Final output sent to browser
+DEBUG - 2015-02-05 15:47:34 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:48:10 --> Config Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:48:10 --> URI Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Router Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Output Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Security Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Input Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:48:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:48:10 --> Language Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:48:10 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:48:10 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Session Class Initialized
+DEBUG - 2015-02-05 15:48:10 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:48:10 --> Session routines successfully run
+DEBUG - 2015-02-05 15:48:10 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:48:10 --> Final output sent to browser
+DEBUG - 2015-02-05 15:48:10 --> Total execution time: 0.0127
+DEBUG - 2015-02-05 15:48:11 --> Config Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:48:11 --> URI Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Router Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Output Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Security Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Input Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:48:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:48:11 --> Language Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:48:11 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:48:11 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Session Class Initialized
+DEBUG - 2015-02-05 15:48:11 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:48:11 --> Session routines successfully run
+DEBUG - 2015-02-05 15:48:11 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:48:11 --> Final output sent to browser
+DEBUG - 2015-02-05 15:48:11 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 15:48:16 --> Config Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:48:16 --> URI Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Router Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Output Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Security Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Input Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:48:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:48:16 --> Language Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:48:16 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:48:16 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Session Class Initialized
+DEBUG - 2015-02-05 15:48:16 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:48:16 --> Session routines successfully run
+DEBUG - 2015-02-05 15:48:16 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:48:16 --> Final output sent to browser
+DEBUG - 2015-02-05 15:48:16 --> Total execution time: 0.0129
+DEBUG - 2015-02-05 15:48:21 --> Config Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:48:21 --> URI Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Router Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Output Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Security Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Input Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:48:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:48:21 --> Language Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:48:21 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:48:21 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Session Class Initialized
+DEBUG - 2015-02-05 15:48:21 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:48:21 --> Session routines successfully run
+DEBUG - 2015-02-05 15:48:21 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:48:21 --> Final output sent to browser
+DEBUG - 2015-02-05 15:48:21 --> Total execution time: 0.0130
+DEBUG - 2015-02-05 15:48:22 --> Config Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:48:22 --> URI Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Router Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Output Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Security Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Input Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:48:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:48:22 --> Language Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:48:22 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:48:22 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Session Class Initialized
+DEBUG - 2015-02-05 15:48:22 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:48:22 --> Session routines successfully run
+DEBUG - 2015-02-05 15:48:22 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:48:22 --> Final output sent to browser
+DEBUG - 2015-02-05 15:48:22 --> Total execution time: 0.0137
+DEBUG - 2015-02-05 15:48:44 --> Config Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:48:44 --> URI Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Router Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Output Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Security Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Input Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:48:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:48:44 --> Language Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:48:44 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:48:44 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Session Class Initialized
+DEBUG - 2015-02-05 15:48:44 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:48:44 --> Session routines successfully run
+DEBUG - 2015-02-05 15:48:44 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:48:44 --> Final output sent to browser
+DEBUG - 2015-02-05 15:48:44 --> Total execution time: 0.0131
+DEBUG - 2015-02-05 15:48:50 --> Config Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:48:50 --> URI Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Router Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Output Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Security Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Input Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:48:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:48:50 --> Language Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:48:50 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:48:50 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Session Class Initialized
+DEBUG - 2015-02-05 15:48:50 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:48:50 --> Session routines successfully run
+DEBUG - 2015-02-05 15:48:50 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:48:50 --> Final output sent to browser
+DEBUG - 2015-02-05 15:48:50 --> Total execution time: 0.0126
+DEBUG - 2015-02-05 15:48:52 --> Config Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:48:52 --> URI Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Router Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Output Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Security Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Input Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:48:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:48:52 --> Language Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:48:52 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:48:52 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Model Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Session Class Initialized
+DEBUG - 2015-02-05 15:48:52 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:48:52 --> Session routines successfully run
+DEBUG - 2015-02-05 15:48:52 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:48:52 --> Final output sent to browser
+DEBUG - 2015-02-05 15:48:52 --> Total execution time: 0.0141
+DEBUG - 2015-02-05 15:53:48 --> Config Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:53:48 --> URI Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Router Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Output Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Security Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Input Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:53:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:53:48 --> Language Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:53:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:53:48 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Model Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Session Class Initialized
+DEBUG - 2015-02-05 15:53:48 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:53:48 --> Session routines successfully run
+DEBUG - 2015-02-05 15:53:48 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:53:48 --> Final output sent to browser
+DEBUG - 2015-02-05 15:53:48 --> Total execution time: 0.0139
+DEBUG - 2015-02-05 15:53:50 --> Config Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Hooks Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Utf8 Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> UTF-8 Support Enabled
+DEBUG - 2015-02-05 15:53:50 --> URI Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Router Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Output Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Security Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Input Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> XSS Filtering completed
+DEBUG - 2015-02-05 15:53:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-05 15:53:50 --> Language Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Loader Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Database Driver Class Initialized
+ERROR - 2015-02-05 15:53:50 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/donnol/www/CIweb/server/system/database/drivers/mysql/mysql_driver.php 73
+DEBUG - 2015-02-05 15:53:50 --> Controller Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Model Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Session Class Initialized
+DEBUG - 2015-02-05 15:53:50 --> Helper loaded: string_helper
+DEBUG - 2015-02-05 15:53:50 --> Session routines successfully run
+DEBUG - 2015-02-05 15:53:50 --> File loaded: application/views/json_view.php
+DEBUG - 2015-02-05 15:53:50 --> Final output sent to browser
+DEBUG - 2015-02-05 15:53:50 --> Total execution time: 0.0132

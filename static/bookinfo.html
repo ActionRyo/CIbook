@@ -6,7 +6,7 @@
 <script type="text/javascript" src="js/all.js"></script>
 <script language="javascript">
 $(document).ready(function(){
-        isLogin();
+        isLogin(function(){
         $("#sub").hide();
         $("#addbtn").hide();
         if(true){
@@ -190,6 +190,7 @@ $(document).ready(function(){
                 }
                 }
                 $("#deletebook").hide();
+        });
         });
 });
 </script>
