@@ -68,18 +68,4 @@ class User_service extends CI_Model{
         $data = $this->user_model->update_user($name, $tel, $addr, $cert, $id);
         return $data;
     }
-    public function login($name, $pwd)
-    {
-        $password = sha1($pwd);
-        $data = $this->user_model->login($name, $password);
-        if( count($data['data']) == 0 )
-        {
-            return array(
-                'code'=>1,
-                'msg'=>'account or password error.',
-                'data'=>''
-            );
-        }
-        return $data;
-    }
 }

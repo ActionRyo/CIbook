@@ -4,15 +4,28 @@
         {
             parent::__construct();
             $this->load->model('muser/user_service', 'user_service');
+            $this->load->model('muser/session_service', 'user_session_service');
+        }
+        private function session_check()
+        {
+            $data['json'] = $this->user_session_service->islogin();
+            if( $data['json']['code'] != 0 )
+            {
+                $this->load->view('json_view', $data);
+                return;
+            }
         }
         public function index()
         {
+            $this->session_check();
+
             $data['json'] = $this->user_service->get_all_user();
             $this->load->view('json_view', $data);
         }
 
         public function view($id)
         {
+            $this->session_check();
             $data['json'] = $this->user_service->get_user($id);
             if( $data['json']['code'] != 0)
             {
@@ -23,6 +36,7 @@
         }
         public function add()
         {
+            $this->session_check();
             $name = $this->input->post('name');
             $pwd = sha1('123');
             $tel = $this->input->post('tel');
@@ -33,11 +47,13 @@
         }
         public function del( $id )
         {
+            $this->session_check();
             $data['json'] = $this->user_service->delete_user($id);
             $this->load->view('json_view', $data);
         }
         public function update( $id )
         {
+            $this->session_check();
             $name = $this->input->post('name');
             $tel = $this->input->post('tel');
             $addr = $this->input->post('addr');

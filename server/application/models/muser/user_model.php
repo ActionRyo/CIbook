@@ -56,7 +56,7 @@ class User_model extends CI_Model{
                 );
 
     }
-    public function login($name, $pwd)
+    public function get_by_name_and_pwd($name, $pwd)
     {
         $array = array('name'=>$name, 'pwd'=>$pwd);
         $this->db->where($array);
